@@ -91,23 +91,42 @@ Programa de Lenguas Modernas · Universidad ECCI © 2026
 `;
 function mostrar(seccion){
 
-const contenedor=document.getElementById("contenido");
+    const contenedor = document.getElementById("contenido");
 
-contenedor.style.opacity=0;
+    contenedor.style.opacity = 0;
 
-setTimeout(()=>{
+    setTimeout(() => {
 
-contenedor.innerHTML=informacion[seccion];
+        contenedor.innerHTML = `
+            <div class="contenedor-info">
 
-contenedor.style.opacity=1;
+                <button class="volver" onclick="volverInicio()">
+                    <i class="fa-solid fa-arrow-left"></i> Volver
+                </button>
 
-contenedor.scrollIntoView({
+                ${informacion[seccion]}
 
-behavior:"smooth"
+            </div>
+        `;
 
-});
+        contenedor.style.opacity = 1;
 
-},250);
+        contenedor.scrollIntoView({
+            behavior: "smooth"
+        });
+
+    }, 250);
+
+}
+
+function volverInicio(){
+
+    document.getElementById("contenido").innerHTML = "";
+
+    window.scrollTo({
+        top: 0,
+        behavior: "smooth"
+    });
 
 }
 document.addEventListener("click",function(e){
