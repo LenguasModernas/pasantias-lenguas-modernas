@@ -36,6 +36,8 @@ app.innerHTML = `
 
 <section class="hero">
 
+<div class="overlay"></div>
+
 <div class="hero-content">
 
 <p class="universidad">${portal.universidad}</p>
