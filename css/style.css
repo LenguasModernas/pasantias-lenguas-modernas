@@ -429,3 +429,46 @@ line-height:2;
 line-height:1.8;
 
 }
+.grid-info{
+
+display:grid;
+
+grid-template-columns:repeat(auto-fit,minmax(320px,1fr));
+
+gap:25px;
+
+margin-top:30px;
+
+}
+
+.importante{
+
+border-top:6px solid #28a745;
+
+}
+
+.alerta{
+
+border-top:6px solid #dc3545;
+
+}
+
+.info-card{
+
+transition:.3s;
+
+}
+
+.info-card:hover{
+
+transform:translateY(-8px);
+
+box-shadow:0 18px 35px rgba(0,0,0,.12);
+
+}
+
+.info-card strong{
+
+color:#003B71;
+
+}
