@@ -91,12 +91,20 @@ function mostrar(seccion){
 
 const contenedor=document.getElementById("contenido");
 
+contenedor.style.opacity=0;
+
+setTimeout(()=>{
+
 contenedor.innerHTML=informacion[seccion];
+
+contenedor.style.opacity=1;
 
 contenedor.scrollIntoView({
 
 behavior:"smooth"
 
 });
+
+},250);
 
 }
