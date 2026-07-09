@@ -41,35 +41,65 @@ general:`
 
 <h2>📘 Información General</h2>
 
-<div class="info-card">
+<div class="grid-info">
 
-<h3>Requisitos</h3>
+<div class="info-card importante">
+
+<h3>✅ Requisitos</h3>
 
 <ul>
-
 <li>80 % de créditos aprobados</li>
-
 <li>Aceptación por una empresa</li>
-
 <li>Formato FR-PO-0023</li>
-
 <li>Carta de Presentación Institucional</li>
-
 <li>Pago de la opción de grado</li>
-
 </ul>
 
 </div>
 
 <div class="info-card">
 
-<h3>Duración</h3>
+<h3>⏱ Duración</h3>
 
 <p>
 
-Entre 320 y 480 horas.
+La pasantía debe tener una duración entre
+
+<strong>320 y 480 horas.</strong>
 
 </p>
+
+</div>
+
+<div class="info-card">
+
+<h3>📄 Documentos</h3>
+
+<ul>
+
+<li>Convenio aprobado</li>
+
+<li>Carta de Presentación</li>
+
+<li>Afiliación ARL</li>
+
+<li>Pago aprobado</li>
+
+</ul>
+
+</div>
+
+<div class="info-card alerta">
+
+<h3>⚠ Importante</h3>
+
+<p>
+
+No puedes iniciar la pasantía sin contar con todos los requisitos aprobados por el Programa.
+
+</p>
+
+</div>
 
 </div>
 
