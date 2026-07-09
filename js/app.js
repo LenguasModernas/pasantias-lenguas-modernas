@@ -62,7 +62,9 @@ ${portal.opciones.map(opcion=>`
 
 <p>${opcion.descripcion}</p>
 
-<button>Consultar</button>
+<button onclick="mostrar('${opcion.id}')">
+Consultar
+</button>
 
 </div>
 
@@ -85,3 +87,8 @@ Programa de Lenguas Modernas · Universidad ECCI © 2026
 </footer>
 
 `;
+function mostrar(seccion){
+
+    alert("Abriremos la sección: " + seccion);
+
+}
