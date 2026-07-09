@@ -1,1 +1,55 @@
-/* Hoja de estilos del Portal de Prácticas y Pasantías */
+/* ==========================================
+   PORTAL DE PRÁCTICAS Y PASANTÍAS
+   Programa de Lenguas Modernas
+   Universidad ECCI
+========================================== */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Merriweather:wght@700&display=swap');
+
+:root{
+
+--azul:#003B7A;
+--azul-claro:#0A66C2;
+--dorado:#F5B400;
+
+--gris:#F5F7FA;
+--texto:#1F2937;
+--blanco:#FFFFFF;
+
+--radio:18px;
+
+}
+
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+}
+
+body{
+
+font-family:'Inter',sans-serif;
+
+background:#F5F7FA;
+
+color:#1F2937;
+
+line-height:1.6;
+
+}
+
+h1,h2,h3{
+
+font-family:'Merriweather',serif;
+
+color:var(--azul);
+
+}
+
+a{
+
+text-decoration:none;
+
+color:inherit;
+
+}
