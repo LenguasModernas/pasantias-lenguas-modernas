@@ -41,61 +41,106 @@ general:`
 
 <h2>📘 Información General</h2>
 
-<div class="grid-info">
+<div class="accordion">
 
-<div class="info-card importante">
+<div class="accordion-item">
 
-<h3>✅ Requisitos</h3>
+<button class="accordion-header">
+✅ Requisitos
+</button>
+
+<div class="accordion-body">
 
 <ul>
-<li>80 % de créditos aprobados</li>
-<li>Aceptación por una empresa</li>
-<li>Formato FR-PO-0023</li>
-<li>Carta de Presentación Institucional</li>
-<li>Pago de la opción de grado</li>
+
+<li>Haber aprobado al menos el <strong>80 %</strong> de los créditos.</li>
+
+<li>Ser aceptado(a) por una empresa.</li>
+
+<li>Diligenciar el formato <strong>FR-PO-0023</strong>.</li>
+
+<li>Solicitar la Carta de Presentación Institucional.</li>
+
+<li>Realizar el pago únicamente cuando el Programa autorice el proceso.</li>
+
 </ul>
 
 </div>
 
-<div class="info-card">
+</div>
 
-<h3>⏱ Duración</h3>
+<div class="accordion-item">
+
+<button class="accordion-header">
+⏱ Duración
+</button>
+
+<div class="accordion-body">
 
 <p>
 
-La pasantía debe tener una duración entre
-
+La pasantía debe realizarse entre
 <strong>320 y 480 horas.</strong>
 
 </p>
 
 </div>
 
-<div class="info-card">
+</div>
 
-<h3>📄 Documentos</h3>
+<div class="accordion-item">
+
+<button class="accordion-header">
+📄 Documentos necesarios
+</button>
+
+<div class="accordion-body">
 
 <ul>
 
-<li>Convenio aprobado</li>
+<li>Convenio aprobado.</li>
 
-<li>Carta de Presentación</li>
+<li>Carta de Presentación.</li>
 
-<li>Afiliación ARL</li>
+<li>Afiliación activa a la ARL.</li>
 
-<li>Pago aprobado</li>
+<li>Pago de la opción de grado.</li>
 
 </ul>
 
 </div>
 
-<div class="info-card alerta">
+</div>
 
-<h3>⚠ Importante</h3>
+<div class="accordion-item">
+
+<button class="accordion-header">
+💰 Valor
+</button>
+
+<div class="accordion-body">
 
 <p>
 
-No puedes iniciar la pasantía sin contar con todos los requisitos aprobados por el Programa.
+<strong>$1.553.795 COP</strong>
+
+</p>
+
+</div>
+
+</div>
+
+<div class="accordion-item">
+
+<button class="accordion-header">
+⚠ Importante
+</button>
+
+<div class="accordion-body">
+
+<p>
+
+No puedes iniciar la pasantía sin cumplir todos los requisitos institucionales.
 
 </p>
 
