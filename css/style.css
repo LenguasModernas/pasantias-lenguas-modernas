@@ -307,26 +307,35 @@ padding-top:140px;
 
 button{
 
-margin-top:20px;
+margin-top:25px;
 
-background:#003B71;
-
-color:white;
-
-padding:14px 25px;
+padding:14px 28px;
 
 border:none;
 
 border-radius:12px;
 
-cursor:pointer;
+background:#003B71;
+
+color:white;
 
 font-weight:600;
+
+cursor:pointer;
 
 transition:.3s;
 
 }
 
+button:hover{
+
+background:#F5B335;
+
+color:#003B71;
+
+transform:scale(1.05);
+
+}
 button:hover{
 
 background:#0D5EA8;
