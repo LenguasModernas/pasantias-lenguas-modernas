@@ -89,6 +89,14 @@ Programa de Lenguas Modernas · Universidad ECCI © 2026
 `;
 function mostrar(seccion){
 
-    alert("Abriremos la sección: " + seccion);
+const contenedor=document.getElementById("contenido");
+
+contenedor.innerHTML=informacion[seccion];
+
+contenedor.scrollIntoView({
+
+behavior:"smooth"
+
+});
 
 }
