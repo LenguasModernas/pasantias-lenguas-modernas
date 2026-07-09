@@ -2,42 +2,86 @@ const app = document.getElementById("app");
 
 app.innerHTML = `
 
-<header class="hero">
+<header class="navbar">
 
-    <div class="hero-content">
+    <div class="logo">
 
-        <p class="universidad">${portal.universidad}</p>
+        <div class="logo-circle">E</div>
 
-        <h1>${portal.titulo}</h1>
+        <div>
 
-        <h2>${portal.programa}</h2>
+            <h3>Universidad ECCI</h3>
 
-        <p class="descripcion">
+            <span>Programa de Lenguas Modernas</span>
 
-            ${portal.descripcion}
-
-        </p>
-
-        <section class="cards">
-
-            ${portal.opciones.map(opcion => `
-
-                <article class="card">
-
-                    <div class="icono">${opcion.icono}</div>
-
-                    <h3>${opcion.titulo}</h3>
-
-                    <p>${opcion.descripcion}</p>
-
-                </article>
-
-            `).join("")}
-
-        </section>
+        </div>
 
     </div>
 
+    <nav>
+
+        <a href="#">Inicio</a>
+
+        <a href="#">General</a>
+
+        <a href="#">Internacional</a>
+
+        <a href="#">Iniciativa</a>
+
+        <a href="#">FAQ</a>
+
+    </nav>
+
 </header>
+
+<section class="hero">
+
+<div class="hero-content">
+
+<p class="universidad">${portal.universidad}</p>
+
+<h1>${portal.titulo}</h1>
+
+<h2>${portal.programa}</h2>
+
+<p class="descripcion">
+
+${portal.descripcion}
+
+</p>
+
+<div class="cards">
+
+${portal.opciones.map(opcion=>`
+
+<div class="card">
+
+<div class="icono">${opcion.icono}</div>
+
+<h3>${opcion.titulo}</h3>
+
+<p>${opcion.descripcion}</p>
+
+<button>Consultar</button>
+
+</div>
+
+`).join("")}
+
+</div>
+
+</div>
+
+</section>
+
+<footer>
+
+<p>
+
+Programa de Lenguas Modernas · Universidad ECCI © 2026
+
+</p>
+
+</footer>
 
 `;
