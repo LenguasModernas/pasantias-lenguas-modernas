@@ -7,26 +7,29 @@ const portal = {
     universidad: "Universidad ECCI",
 
     descripcion:
-        "Encuentra toda la información oficial sobre la Pasantía como Opción de Grado.",
+        "Consulta toda la información oficial sobre la Pasantía como Opción de Grado.",
 
     opciones: [
 
         {
+            id: "general",
             icono: "📘",
             titulo: "Información General",
-            descripcion: "Requisitos, documentos, costos y proceso."
+            descripcion: "Requisitos, documentos, costos y proceso institucional."
         },
 
         {
+            id: "internacional",
             icono: "🌍",
             titulo: "Pasantía Internacional",
-            descripcion: "Agencias autorizadas y requisitos."
+            descripcion: "Agencias autorizadas, requisitos y proceso."
         },
 
         {
+            id: "iniciativa",
             icono: "💼",
             titulo: "Iniciativa Propia",
-            descripcion: "Propón tu empresa para realizar la pasantía."
+            descripcion: "Propón una empresa para realizar tu pasantía."
         }
 
     ]
