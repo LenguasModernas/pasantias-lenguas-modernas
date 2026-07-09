@@ -13,21 +13,21 @@ const portal = {
 
         {
             id: "general",
-            icono: "📘",
+           icono:'<i class="fa-solid fa-book-open"></i>',
             titulo: "Información General",
             descripcion: "Requisitos, documentos, costos y proceso institucional."
         },
 
         {
             id: "internacional",
-            icono: "🌍",
+            icono:'<i class="fa-solid fa-earth-americas"></i>',
             titulo: "Pasantía Internacional",
             descripcion: "Agencias autorizadas, requisitos y proceso."
         },
 
         {
             id: "iniciativa",
-            icono: "💼",
+            icono:'<i class="fa-solid fa-briefcase"></i>',
             titulo: "Iniciativa Propia",
             descripcion: "Propón una empresa para realizar tu pasantía."
         }
