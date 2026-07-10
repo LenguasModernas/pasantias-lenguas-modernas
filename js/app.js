@@ -77,7 +77,33 @@ Consultar
 </div>
 
 </section>
+<section class="estadisticas">
 
+    <div class="estadistica">
+
+        <h2>80 %</h2>
+
+        <p>Créditos aprobados</p>
+
+    </div>
+
+    <div class="estadistica">
+
+        <h2>320–480</h2>
+
+        <p>Horas de pasantía</p>
+
+    </div>
+
+    <div class="estadistica">
+
+        <h2>3</h2>
+
+        <p>Reuniones obligatorias</p>
+
+    </div>
+
+</section>
 <footer>
 
 <p>
