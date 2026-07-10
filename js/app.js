@@ -167,8 +167,6 @@ function mostrar(seccion){
 
 function volverInicio(){
 
-function volverInicio(){
-
     document.getElementById("contenido").innerHTML = "";
 
     window.scrollTo({
