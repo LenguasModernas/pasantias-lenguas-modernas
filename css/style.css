@@ -1023,3 +1023,30 @@ font-size:13px;
 color:#666;
 
 }
+/*==================================
+TÍTULOS DE CONTENIDO
+==================================*/
+
+.contenedor-info h2{
+
+font-size:42px;
+
+margin-bottom:20px;
+
+color:#003B71;
+
+}
+
+.contenedor-info>p{
+
+font-size:18px;
+
+line-height:1.9;
+
+margin-bottom:35px;
+
+color:#555;
+
+max-width:900px;
+
+}
