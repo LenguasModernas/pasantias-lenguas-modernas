@@ -30,7 +30,14 @@ const portal = {
             icono:'<i class="fa-solid fa-briefcase"></i>',
             titulo: "Iniciativa Propia",
             descripcion: "Propón una empresa para realizar tu pasantía."
-        }
+        },
+        
+        {
+    id: "faq",
+    icono:'<i class="fa-solid fa-circle-question"></i>',
+    titulo: "Preguntas Frecuentes",
+    descripcion: "Resuelve las dudas más comunes sobre la Pasantía."
+}
 
     ]
 
