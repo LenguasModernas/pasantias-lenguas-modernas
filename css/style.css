@@ -803,3 +803,70 @@ font-size:18px;
 color:#555;
 
 }
+/*==================================
+INDICADORES
+==================================*/
+
+.indicadores{
+
+display:grid;
+
+grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+
+gap:25px;
+
+padding:70px 8%;
+
+background:#f7f9fc;
+
+}
+
+.indicador{
+
+background:white;
+
+padding:35px;
+
+border-radius:20px;
+
+text-align:center;
+
+box-shadow:0 12px 30px rgba(0,0,0,.08);
+
+transition:.35s;
+
+}
+
+.indicador:hover{
+
+transform:translateY(-10px);
+
+box-shadow:0 20px 40px rgba(0,0,0,.15);
+
+}
+
+.icono-indicador{
+
+font-size:52px;
+
+margin-bottom:18px;
+
+}
+
+.indicador h3{
+
+font-size:32px;
+
+color:#003B71;
+
+margin-bottom:10px;
+
+}
+
+.indicador p{
+
+color:#666;
+
+line-height:1.6;
+
+}
