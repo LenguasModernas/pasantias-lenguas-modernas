@@ -77,29 +77,45 @@ Consultar
 </div>
 
 </section>
-<section class="estadisticas">
+<section class="indicadores">
 
-    <div class="estadistica">
+    <div class="indicador">
 
-        <h2>80 %</h2>
+        <div class="icono-indicador">🎓</div>
+
+        <h3>80 %</h3>
 
         <p>Créditos aprobados</p>
 
     </div>
 
-    <div class="estadistica">
+    <div class="indicador">
 
-        <h2>320–480</h2>
+        <div class="icono-indicador">⏱</div>
 
-        <p>Horas de pasantía</p>
+        <h3>320–480</h3>
+
+        <p>Horas de práctica</p>
 
     </div>
 
-    <div class="estadistica">
+    <div class="indicador">
 
-        <h2>3</h2>
+        <div class="icono-indicador">📄</div>
 
-        <p>Reuniones obligatorias</p>
+        <h3>FR-PO-0023</h3>
+
+        <p>Formato obligatorio</p>
+
+    </div>
+
+    <div class="indicador">
+
+        <div class="icono-indicador">🛡️</div>
+
+        <h3>ARL</h3>
+
+        <p>Afiliación obligatoria</p>
 
     </div>
 
