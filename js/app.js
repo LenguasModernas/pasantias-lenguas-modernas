@@ -32,7 +32,7 @@ app.innerHTML = `
 
     <a href="#" onclick="mostrar('iniciativa')">Iniciativa</a>
 
-    <a href="#" onclick="mostrarFAQ()">FAQ</a>
+    <a href="#" onclick="mostrar('faq')">FAQ</a>
 
 </nav>
 
