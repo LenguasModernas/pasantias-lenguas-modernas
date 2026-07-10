@@ -167,7 +167,9 @@ function mostrar(seccion){
 
 function volverInicio(){
 
-document.getElementById("contenido").innerHTML = "";
+function volverInicio(){
+
+    document.getElementById("contenido").innerHTML = "";
 
     window.scrollTo({
         top: 0,
@@ -175,6 +177,18 @@ document.getElementById("contenido").innerHTML = "";
     });
 
 }
+
+document.addEventListener("click", function(e){
+
+    if(e.target.classList.contains("accordion-header")){
+
+        const body = e.target.nextElementSibling;
+
+        body.classList.toggle("open");
+
+    }
+
+});
 document.addEventListener("click",function(e){
 
 if(e.target.classList.contains("accordion-header")){
