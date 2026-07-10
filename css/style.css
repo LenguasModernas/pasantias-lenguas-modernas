@@ -241,6 +241,15 @@ box-shadow:0 5px 20px rgba(0,0,0,.08);
 
 .logo{
 
+.logo-ecci{
+
+width:58px;
+
+height:58px;
+
+object-fit:contain;
+
+}
 display:flex;
 
 align-items:center;
