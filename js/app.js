@@ -24,20 +24,6 @@ app.innerHTML = `
 
     <nav>
 
-        <a href="#" onclick="volverInicio()">Inicio</a>
-
-        <a href="#" onclick="mostrar('general')">Información General</a>
-
-        <a href="#" onclick="mostrar('internacional')">Internacional</a>
-
-        <a href="#" onclick="mostrar('iniciativa')">Iniciativa Propia</a>
-
-        <a href="#" onclick="mostrarFAQ()">FAQ</a>
-
-    </nav>
-
-</header>
-
     <a href="#" onclick="volverInicio()">Inicio</a>
 
     <a href="#" onclick="mostrar('general')">General</a>
