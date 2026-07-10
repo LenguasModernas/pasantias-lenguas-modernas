@@ -6,7 +6,11 @@ app.innerHTML = `
 
     <div class="logo">
 
-        <div class="logo-circle">E</div>
+        <img
+            src="assets/logo/ecci.png"
+            alt="Universidad ECCI"
+            class="logo-ecci"
+        >
 
         <div>
 
@@ -19,6 +23,20 @@ app.innerHTML = `
     </div>
 
     <nav>
+
+        <a href="#" onclick="volverInicio()">Inicio</a>
+
+        <a href="#" onclick="mostrar('general')">Información General</a>
+
+        <a href="#" onclick="mostrar('internacional')">Internacional</a>
+
+        <a href="#" onclick="mostrar('iniciativa')">Iniciativa Propia</a>
+
+        <a href="#" onclick="mostrarFAQ()">FAQ</a>
+
+    </nav>
+
+</header>
 
     <a href="#" onclick="volverInicio()">Inicio</a>
 
