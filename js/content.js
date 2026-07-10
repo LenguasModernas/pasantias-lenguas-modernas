@@ -39,110 +39,97 @@ const informacion = {
 
 general:`
 
+<div class="contenedor-info">
+
+<button class="volver" onclick="volverInicio()">
+← Volver al inicio
+</button>
+
 <h2>📘 Información General</h2>
 
-<div class="accordion">
+<p>
+La Pasantía como Opción de Grado permite aplicar los conocimientos adquiridos durante la carrera mediante una experiencia profesional en una empresa u organización con convenio vigente con la Universidad ECCI.
+</p>
 
-<div class="accordion-item">
+<div class="grid-info">
 
-<button class="accordion-header">
-✅ Requisitos
-</button>
+<div class="info-card">
 
-<div class="accordion-body">
+<h3>🎓 Requisitos principales</h3>
 
 <ul>
-
-<li>Haber aprobado al menos el <strong>80 %</strong> de los créditos.</li>
-
+<li>Tener aprobado al menos el <strong>80 % de los créditos</strong>.</li>
 <li>Ser aceptado(a) por una empresa.</li>
-
 <li>Diligenciar el formato <strong>FR-PO-0023</strong>.</li>
-
-<li>Solicitar la Carta de Presentación Institucional.</li>
-
-<li>Realizar el pago únicamente cuando el Programa autorice el proceso.</li>
-
+<li>Radicar el formato en Centro de Servicios.</li>
+<li>Obtener la Carta de Presentación Institucional.</li>
+<li>Realizar el pago de la opción de grado únicamente cuando el Programa lo autorice.</li>
 </ul>
 
 </div>
 
-</div>
+<div class="info-card">
 
-<div class="accordion-item">
-
-<button class="accordion-header">
-⏱ Duración
-</button>
-
-<div class="accordion-body">
-
-<p>
-
-La pasantía debe realizarse entre
-<strong>320 y 480 horas.</strong>
-
-</p>
-
-</div>
-
-</div>
-
-<div class="accordion-item">
-
-<button class="accordion-header">
-📄 Documentos necesarios
-</button>
-
-<div class="accordion-body">
+<h3>📄 Documentación</h3>
 
 <ul>
-
-<li>Convenio aprobado.</li>
-
+<li>Formato FR-PO-0023.</li>
+<li>Carta de aceptación de la empresa.</li>
+<li>Convenio vigente (si aplica).</li>
 <li>Carta de Presentación.</li>
-
-<li>Afiliación activa a la ARL.</li>
-
-<li>Pago de la opción de grado.</li>
-
+<li>Afiliación a la ARL.</li>
 </ul>
 
 </div>
 
+<div class="info-card">
+
+<h3>⏱ Duración</h3>
+
+<ul>
+<li>Mínimo <strong>320 horas</strong>.</li>
+<li>Máximo <strong>480 horas</strong>.</li>
+<li>Las horas dependen del plan de trabajo aprobado.</li>
+</ul>
+
 </div>
 
-<div class="accordion-item">
+<div class="info-card">
 
-<button class="accordion-header">
-💰 Valor
-</button>
-
-<div class="accordion-body">
+<h3>💰 Pago</h3>
 
 <p>
 
-<strong>$1.553.795 COP</strong>
+El pago de la opción de grado se realiza únicamente después de recibir el aval del Programa de Lenguas Modernas.
 
 </p>
 
 </div>
 
+<div class="info-card importante">
+
+<h3>📌 Recomendaciones</h3>
+
+<ul>
+<li>No iniciar actividades antes de la aprobación.</li>
+<li>Consultar permanentemente el correo institucional.</li>
+<li>Conservar copia de todos los documentos.</li>
+<li>Asistir a las reuniones de seguimiento.</li>
+</ul>
+
 </div>
 
-<div class="accordion-item">
+<div class="info-card alerta">
 
-<button class="accordion-header">
-⚠ Importante
-</button>
-
-<div class="accordion-body">
+<h3>⚠ Importante</h3>
 
 <p>
 
-No puedes iniciar la pasantía sin cumplir todos los requisitos institucionales.
+La práctica solamente será válida cuando cumpla completamente el procedimiento institucional.
 
 </p>
+
+</div>
 
 </div>
 
