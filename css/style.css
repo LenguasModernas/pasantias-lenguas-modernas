@@ -930,6 +930,14 @@ gap:18px;
 
 }
 
+display:flex;
+
+align-items:center;
+
+gap:18px;
+
+}
+
 nav a{
 
 text-decoration:none;
