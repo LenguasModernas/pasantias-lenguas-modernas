@@ -166,6 +166,18 @@ function mostrar(seccion){
 }
 
 function volverInicio(){
+
+document.getElementById("contenido").innerHTML="";
+
+window.scrollTo({
+
+top:0,
+
+behavior:"smooth"
+
+});
+
+}
 function mostrarFAQ(){
 
     const contenedor = document.getElementById("contenido");
