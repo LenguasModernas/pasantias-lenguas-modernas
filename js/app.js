@@ -174,16 +174,6 @@ function volverInicio(){
         behavior: "smooth"
     });
 
-}
-
-document.addEventListener("click", function(e){
-
-    if(e.target.classList.contains("accordion-header")){
-
-        const body = e.target.nextElementSibling;
-
-        body.classList.toggle("open");
-
     }
 
 });
