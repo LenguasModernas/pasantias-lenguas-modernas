@@ -20,17 +20,17 @@ app.innerHTML = `
 
     <nav>
 
-        <a href="#">Inicio</a>
+    <a href="#" onclick="volverInicio()">Inicio</a>
 
-        <a href="#">General</a>
+    <a href="#" onclick="mostrar('general')">General</a>
 
-        <a href="#">Internacional</a>
+    <a href="#" onclick="mostrar('internacional')">Internacional</a>
 
-        <a href="#">Iniciativa</a>
+    <a href="#" onclick="mostrar('iniciativa')">Iniciativa</a>
 
-        <a href="#">FAQ</a>
+    <a href="#" onclick="mostrarFAQ()">FAQ</a>
 
-    </nav>
+</nav>
 
 </header>
 
@@ -120,7 +120,77 @@ function mostrar(seccion){
 }
 
 function volverInicio(){
+function mostrarFAQ(){
 
+    const contenedor = document.getElementById("contenido");
+
+    contenedor.innerHTML = `
+
+        <div class="contenedor-info">
+
+            <h2>Preguntas Frecuentes</h2>
+
+            <div class="accordion">
+
+                <div class="accordion-item">
+
+                    <button class="accordion-header">
+
+                        ¿Cuántos créditos debo haber aprobado?
+
+                    </button>
+
+                    <div class="accordion-body">
+
+                        Debes haber aprobado al menos el 80 % de los créditos del programa.
+
+                    </div>
+
+                </div>
+
+                <div class="accordion-item">
+
+                    <button class="accordion-header">
+
+                        ¿Cuántas horas dura la pasantía?
+
+                    </button>
+
+                    <div class="accordion-body">
+
+                        Entre 320 y 480 horas.
+
+                    </div>
+
+                </div>
+
+                <div class="accordion-item">
+
+                    <button class="accordion-header">
+
+                        ¿Cuándo debo pagar la opción de grado?
+
+                    </button>
+
+                    <div class="accordion-body">
+
+                        Solo después de que el Programa apruebe tu proceso.
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    `;
+
+    contenedor.scrollIntoView({
+        behavior: "smooth"
+    });
+
+}
     document.getElementById("contenido").innerHTML = "";
 
     window.scrollTo({
