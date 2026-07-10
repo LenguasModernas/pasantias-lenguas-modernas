@@ -178,21 +178,87 @@ Solo se aprueban procesos gestionados mediante agencias autorizadas.
 
 iniciativa:`
 
-<h2>💼 Pasantía por Iniciativa Propia</h2>
+...
 
-<div class="info-card">
+`,
 
-<h3>Antes de iniciar</h3>
+faq:`
 
-<ul>
+<div class="contenedor-info">
 
-<li>Enviar carta de intención</li>
+<button class="volver" onclick="volverInicio()">
+← Volver al inicio
+</button>
 
-<li>Revisión de funciones</li>
+<h2>❓ Preguntas Frecuentes</h2>
 
-<li>Aprobación del Programa</li>
+<div class="accordion">
 
-</ul>
+<div class="accordion-item">
+
+<button class="accordion-header">
+
+¿Cuándo puedo iniciar mi pasantía?
+
+</button>
+
+<div class="accordion-body">
+
+Solo cuando tengas la Carta de Presentación Institucional, el convenio aprobado, la afiliación a la ARL y la autorización del Programa.
+
+</div>
+
+</div>
+
+<div class="accordion-item">
+
+<button class="accordion-header">
+
+¿Cuántas horas debo cumplir?
+
+</button>
+
+<div class="accordion-body">
+
+Entre 320 y 480 horas.
+
+</div>
+
+</div>
+
+<div class="accordion-item">
+
+<button class="accordion-header">
+
+¿Debo pagar antes de conseguir empresa?
+
+</button>
+
+<div class="accordion-body">
+
+No. El pago únicamente se realiza cuando el Programa autoriza el proceso.
+
+</div>
+
+</div>
+
+<div class="accordion-item">
+
+<button class="accordion-header">
+
+¿Puedo proponer mi propia empresa?
+
+</button>
+
+<div class="accordion-body">
+
+Sí. El Programa revisará las funciones para determinar si cumplen con el perfil profesional.
+
+</div>
+
+</div>
+
+</div>
 
 </div>
 
