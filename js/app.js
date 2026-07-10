@@ -167,18 +167,7 @@ function mostrar(seccion){
 
 function volverInicio(){
 
-document.getElementById("contenido").innerHTML="";
-
-window.scrollTo({
-
-top:0,
-
-behavior:"smooth"
-
-});
-
-}
-    document.getElementById("contenido").innerHTML = "";
+document.getElementById("contenido").innerHTML = "";
 
     window.scrollTo({
         top: 0,
