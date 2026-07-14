@@ -193,3 +193,61 @@ document.addEventListener("click", function(e){
     body.classList.toggle("open");
 
 });
+
+function buscarInformacion(){
+
+    const texto = document
+        .getElementById("buscar")
+        .value
+        .toLowerCase()
+        .trim();
+
+    const resultado = document.getElementById("resultadoBusqueda");
+
+    if(texto === ""){
+
+        resultado.innerHTML = "";
+        return;
+
+    }
+
+    let coincidencias = [];
+
+    for(const seccion in informacion){
+
+        if(informacion[seccion].toLowerCase().includes(texto)){
+
+            coincidencias.push(seccion);
+
+        }
+
+    }
+
+    if(coincidencias.length === 0){
+
+        resultado.innerHTML = `
+            <div class="info-card alerta">
+                <h3>No se encontraron resultados</h3>
+                <p>No existe información relacionada con "<strong>${texto}</strong>".</p>
+            </div>
+        `;
+
+        return;
+
+    }
+
+    resultado.innerHTML = coincidencias.map(seccion => `
+
+        <div class="info-card">
+
+            <h3>${portal.opciones.find(op=>op.id===seccion)?.titulo ?? seccion}</h3>
+
+            <button onclick="mostrar('${seccion}')">
+                Abrir sección
+            </button>
+
+        </div>
+
+    `).join("");
+
+}
