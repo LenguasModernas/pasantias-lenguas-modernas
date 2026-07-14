@@ -97,7 +97,7 @@ Consultar
 
 <section id="resultadoBusqueda"></section>
 
-<section class="indicadores">
+<section class="indicadores fade-up">
 
     <div class="indicador">
 
