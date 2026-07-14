@@ -161,7 +161,21 @@ function mostrar(seccion){
 
         contenedor.innerHTML = informacion[seccion];
 
-        contenedor.style.opacity = 1;
+const tarjetas = contenedor.querySelectorAll(
+".info-card, .timeline-item"
+);
+
+tarjetas.forEach((card,index)=>{
+
+card.style.animation="none";
+
+card.offsetHeight;
+
+card.style.animation=`aparecer .7s ease ${index*0.1}s both`;
+
+});
+
+contenedor.style.opacity=1;
 
         contenedor.scrollIntoView({
             behavior: "smooth"
