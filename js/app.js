@@ -197,7 +197,11 @@ function volverInicio(){
     });
 
 }
+window.onload=function(){
 
+    animarContadores();
+
+}
 document.addEventListener("click", function(e){
 
     const boton = e.target.closest(".accordion-header");
