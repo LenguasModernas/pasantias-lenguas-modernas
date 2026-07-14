@@ -1110,3 +1110,67 @@ margin:30px auto;
 padding:0 20px;
 
 }
+
+/*=================================
+TARJETAS PREMIUM
+==================================*/
+
+.info-card{
+
+    background:white;
+
+    border-radius:20px;
+
+    padding:35px;
+
+    box-shadow:0 15px 35px rgba(0,0,0,.08);
+
+    transition:.35s;
+
+    border-top:6px solid #003B71;
+
+}
+
+.info-card:hover{
+
+    transform:translateY(-8px);
+
+    box-shadow:0 20px 45px rgba(0,0,0,.15);
+
+}
+
+.info-card h3{
+
+    color:#003B71;
+
+    margin-bottom:20px;
+
+    font-size:24px;
+
+}
+
+.info-card ul{
+
+    padding-left:22px;
+
+    line-height:2;
+
+}
+
+.info-card p{
+
+    line-height:1.9;
+
+}
+
+.importante{
+
+    border-top-color:#28a745;
+
+}
+
+.alerta{
+
+    border-top-color:#dc3545;
+
+}
