@@ -164,8 +164,23 @@ internacional:`
 <button class="volver" onclick="volverInicio()">
 ← Volver al inicio
 </button>
+<div class="banner-seccion">
 
-<h2>🌍 Pasantía Internacional</h2>
+<i class="fa-solid fa-earth-americas"></i>
+
+<div>
+
+<h2>Pasantía Internacional</h2>
+
+<p>
+
+Realiza una experiencia académica y profesional en el exterior mediante agencias autorizadas por el Programa.
+
+</p>
+
+</div>
+
+</div>
 
 <p>
 
