@@ -162,7 +162,7 @@ internacional:`
 <div class="contenedor-info">
 
 <button class="volver" onclick="volverInicio()">
-<i class="fa-solid fa-arrow-left"></i> Volver
+← Volver al inicio
 </button>
 
 <h2>🌍 Pasantía Internacional</h2>
