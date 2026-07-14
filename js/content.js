@@ -492,7 +492,59 @@ La aprobación no depende únicamente de la empresa. El Programa evaluará que e
 <div class="info-card">
 
 <h3>👨‍🎓 Perfil profesional</h3>
+<div class="info-card">
 
+<h3>💼 Ejemplos de cargos que pueden ser aprobados</h3>
+
+<p>
+
+Estos son algunos ejemplos de cargos que normalmente se ajustan al perfil profesional de un estudiante de Lenguas Modernas.
+
+</p>
+
+<ul>
+
+<li>Traductor.</li>
+
+<li>Intérprete.</li>
+
+<li>Asistente de Comercio Exterior.</li>
+
+<li>Asistente de Relaciones Internacionales.</li>
+
+<li>Asistente de Internacionalización.</li>
+
+<li>Analista de Comercio Internacional.</li>
+
+<li>Analista de Mercados Internacionales.</li>
+
+<li>Coordinador de Proyectos Internacionales (nivel auxiliar o asistente).</li>
+
+<li>Community Manager.</li>
+
+<li>Asistente de Marketing Digital.</li>
+
+<li>Analista de Contenido Multilingüe.</li>
+
+<li>Asistente de Comunicaciones.</li>
+
+<li>Gestor de Clientes Bilingües.</li>
+
+<li>Auxiliar Administrativo Bilingüe.</li>
+
+<li>Auxiliar de Talento Humano Bilingüe.</li>
+
+<li>Auxiliar de Compras Internacionales.</li>
+
+<li>Asistente de Logística Internacional.</li>
+
+<li>Asistente de Turismo.</li>
+
+<li>Asistente de Operaciones Internacionales.</li>
+
+</ul>
+
+</div>
 <p>
 
 El profesional en Lenguas Modernas de la Universidad ECCI está preparado para comunicarse en contextos interculturales, gestionar procesos de comunicación en diferentes idiomas y apoyar organizaciones nacionales e internacionales mediante el uso estratégico de las lenguas extranjeras.
