@@ -103,7 +103,8 @@ Consultar
 
         <div class="icono-indicador">🎓</div>
 
-        <h3>80 %</h3>
+        <h3 class="contador" data-numero="80">0</h3>
+<p>Créditos aprobados</p>
 
         <p>Créditos aprobados</p>
 
