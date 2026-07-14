@@ -70,7 +70,69 @@ Todo el procedimiento institucional para realizar la Pasantía como Opción de G
 <p>
 La Pasantía como Opción de Grado permite aplicar los conocimientos adquiridos durante la carrera mediante una experiencia profesional en una empresa u organización con convenio vigente con la Universidad ECCI.
 </p>
+<div class="timeline">
 
+<div class="timeline-item">
+
+<div class="timeline-icon">
+<i class="fa-solid fa-user-check"></i>
+</div>
+
+<h4>1. Requisitos</h4>
+
+<p>Verifica que cumplas el 80 % de los créditos.</p>
+
+</div>
+
+<div class="timeline-item">
+
+<div class="timeline-icon">
+<i class="fa-solid fa-building"></i>
+</div>
+
+<h4>2. Empresa</h4>
+
+<p>Obtén la aceptación de una empresa.</p>
+
+</div>
+
+<div class="timeline-item">
+
+<div class="timeline-icon">
+<i class="fa-solid fa-file-signature"></i>
+</div>
+
+<h4>3. Documentos</h4>
+
+<p>Entrega el formato FR-PO-0023 y demás documentos.</p>
+
+</div>
+
+<div class="timeline-item">
+
+<div class="timeline-icon">
+<i class="fa-solid fa-shield-halved"></i>
+</div>
+
+<h4>4. ARL</h4>
+
+<p>Gestiona la afiliación correspondiente.</p>
+
+</div>
+
+<div class="timeline-item">
+
+<div class="timeline-icon">
+<i class="fa-solid fa-circle-check"></i>
+</div>
+
+<h4>5. Inicio</h4>
+
+<p>Comienza la pasantía únicamente cuando esté aprobada.</p>
+
+</div>
+
+</div>
 <div class="grid-info">
 
 <div class="info-card">
