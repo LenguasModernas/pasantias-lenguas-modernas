@@ -143,17 +143,7 @@ function mostrar(seccion){
 
     setTimeout(() => {
 
-        contenedor.innerHTML = `
-            <div class="contenedor-info">
-
-                <button class="volver" onclick="volverInicio()">
-                    <i class="fa-solid fa-arrow-left"></i> Volver
-                </button>
-
-                ${informacion[seccion]}
-
-            </div>
-        `;
+        contenedor.innerHTML = informacion[seccion];
 
         contenedor.style.opacity = 1;
 
