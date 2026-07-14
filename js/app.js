@@ -95,6 +95,8 @@ Consultar
 
 </section>
 
+<section id="resultadoBusqueda"></section>
+
 <section class="indicadores">
 
     <div class="indicador">
