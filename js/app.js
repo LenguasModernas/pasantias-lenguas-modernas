@@ -209,7 +209,37 @@ document.addEventListener("click", function(e){
     body.classList.toggle("open");
 
 });
+function animarContadores(){
 
+    const contadores=document.querySelectorAll(".contador");
+
+    contadores.forEach(contador=>{
+
+        const objetivo=Number(contador.dataset.numero);
+
+        let actual=0;
+
+        const incremento=Math.ceil(objetivo/50);
+
+        const timer=setInterval(()=>{
+
+            actual+=incremento;
+
+            if(actual>=objetivo){
+
+                actual=objetivo;
+
+                clearInterval(timer);
+
+            }
+
+            contador.textContent=actual;
+
+        },30);
+
+    });
+
+}
 function buscarInformacion(){
 
     const texto = document
