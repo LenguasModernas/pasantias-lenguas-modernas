@@ -81,6 +81,20 @@ Consultar
 </div>
 
 </section>
+
+<section class="buscador">
+
+    <h2>🔍 Buscar información</h2>
+
+    <input
+        type="text"
+        id="buscar"
+        placeholder="Escribe una palabra como ARL, convenio, empresa o FR-PO-0023..."
+        onkeyup="buscarInformacion()"
+    >
+
+</section>
+
 <section class="indicadores">
 
     <div class="indicador">
