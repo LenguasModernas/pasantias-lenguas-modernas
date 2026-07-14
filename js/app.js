@@ -114,7 +114,8 @@ Consultar
 
         <div class="icono-indicador">⏱</div>
 
-        <h3>320–480</h3>
+        <h3 class="contador" data-numero="320">0</h3>
+<p>Horas mínimas</p>
 
         <p>Horas de práctica</p>
 
