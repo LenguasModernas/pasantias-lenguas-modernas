@@ -176,14 +176,14 @@ function volverInicio(){
 
 }
 
-document.addEventListener("click",function(e){
+document.addEventListener("click", function(e){
 
-if(e.target.classList.contains("accordion-header")){
+    const boton = e.target.closest(".accordion-header");
 
-const body=e.target.nextElementSibling;
+    if(!boton) return;
 
-body.classList.toggle("open");
+    const body = boton.nextElementSibling;
 
-}
+    body.classList.toggle("open");
 
 });
