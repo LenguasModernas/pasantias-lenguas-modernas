@@ -185,7 +185,41 @@ Solo se aprueban procesos gestionados mediante agencias autorizadas por el Progr
 
 iniciativa:`
 
-...
+<div class="contenedor-info">
+
+<button class="volver" onclick="volverInicio()">
+<i class="fa-solid fa-arrow-left"></i> Volver
+</button>
+
+<h2>💼 Pasantía por Iniciativa Propia</h2>
+
+<div class="grid-info">
+
+<div class="info-card">
+
+<h3>Antes de iniciar</h3>
+
+<ul>
+<li>Enviar carta de intención.</li>
+<li>Revisión de funciones por el Programa.</li>
+<li>Aprobación institucional.</li>
+</ul>
+
+</div>
+
+<div class="info-card">
+
+<h3>Recomendación</h3>
+
+<p>
+No firmes ningún documento con la empresa antes de recibir la aprobación oficial del Programa de Lenguas Modernas.
+</p>
+
+</div>
+
+</div>
+
+</div>
 
 `,
 
