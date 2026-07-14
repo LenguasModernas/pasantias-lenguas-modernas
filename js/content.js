@@ -402,106 +402,62 @@ iniciativa:`
 <button class="volver" onclick="volverInicio()">
 ← Volver al inicio
 </button>
-<div class="banner-seccion">
 
-<i class="fa-solid fa-briefcase"></i>
-
-<div>
-
-<h2>Iniciativa Propia</h2>
-
-<p>
-
-Propón una empresa para desarrollar tu pasantía y realiza el proceso con el acompañamiento del Programa de Lenguas Modernas.
-
-</p>
-
-</div>
-
-</div>
-
-<p>
-
-La Pasantía por Iniciativa Propia permite al estudiante proponer una empresa para desarrollar su práctica profesional, siempre que las funciones estén relacionadas con el perfil del Programa y sean aprobadas institucionalmente.
-
-</p>
+<h2>💼 Pasantía por Iniciativa Propia</h2>
 
 <div class="grid-info">
 
 <div class="info-card">
 
-<h3>👤 ¿Quién puede aplicar?</h3>
+<h3>📌 ¿Qué es?</h3>
+
+<p>
+
+La Pasantía por Iniciativa Propia permite al estudiante gestionar una oportunidad de práctica en una empresa de su interés. El Programa de Lenguas Modernas evaluará la propuesta para verificar que el cargo y las funciones sean acordes con el perfil profesional y los requisitos institucionales.
+
+</p>
+
+</div>
+
+<div class="info-card importante">
+
+<h3>⭐ ¿Por qué buscar tu propia empresa?</h3>
 
 <ul>
-<li>Estudiantes con el 80 % de créditos aprobados.</li>
-<li>Estudiantes que hayan conseguido una empresa por sus propios medios.</li>
+
+<li>Mayor oferta de vacantes.</li>
+
+<li>Posibilidad de recibir remuneración.</li>
+
+<li>Empresas acordes con tus intereses.</li>
+
+<li>Más oportunidades de vinculación laboral.</li>
+
 </ul>
 
 </div>
 
 <div class="info-card">
 
-<h3>🏢 Requisitos de la empresa</h3>
+<h3>💡 Recomendación del Programa</h3>
 
-<ul>
-<li>Existencia legal.</li>
-<li>Funciones acordes al perfil profesional.</li>
-<li>Disposición para firmar convenio cuando sea necesario.</li>
-</ul>
+<p>
 
-</div>
+Se recomienda que cada estudiante gestione la búsqueda de su empresa. Esta modalidad amplía las posibilidades de encontrar un cargo relacionado con su perfil profesional y sus expectativas de crecimiento.
 
-<div class="info-card">
-
-<h3>📄 Documentos</h3>
-
-<ul>
-<li>Carta de intención.</li>
-<li>Certificado de Cámara de Comercio.</li>
-<li>RUT.</li>
-<li>Documento del representante legal.</li>
-<li>Formato FR-PO-0023.</li>
-</ul>
-
-</div>
-
-<div class="info-card">
-
-<h3>📋 Proceso</h3>
-
-<ol>
-<li>Presentar la empresa.</li>
-<li>Revisión por el Programa.</li>
-<li>Verificación del convenio.</li>
-<li>Aprobación institucional.</li>
-<li>Carta de presentación.</li>
-<li>Inicio de la pasantía.</li>
-</ol>
-
-</div>
-
-<div class="info-card">
-
-<h3>✅ Recomendaciones</h3>
-
-<ul>
-<li>No iniciar actividades sin autorización.</li>
-<li>Conservar todos los documentos.</li>
-<li>Mantener comunicación con el tutor.</li>
-<li>Cumplir el plan de trabajo.</li>
-</ul>
+</p>
 
 </div>
 
 <div class="info-card alerta">
 
-<h3>🚫 No será aprobada cuando</h3>
+<h3>⚠ Importante</h3>
 
-<ul>
-<li>Las funciones no correspondan al perfil profesional.</li>
-<li>La empresa no entregue la documentación requerida.</li>
-<li>El estudiante inicie actividades sin autorización.</li>
-</ul>
+<p>
+
+La aceptación de la empresa dependerá de la evaluación realizada por el Programa de Lenguas Modernas.
+
+</p>
 
 </div>
 
