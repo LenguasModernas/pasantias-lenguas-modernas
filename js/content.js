@@ -545,6 +545,39 @@ Estos son algunos ejemplos de cargos que normalmente se ajustan al perfil profes
 </ul>
 
 </div>
+
+<div class="info-card alerta">
+
+<h3>🚫 Cargos que normalmente NO son aprobados</h3>
+
+<p>
+
+Algunos cargos no permiten desarrollar las competencias del programa y, por tanto, normalmente no son aprobados como opción de grado.
+
+</p>
+
+<ul>
+
+<li>Operario de producción.</li>
+
+<li>Auxiliar de bodega.</li>
+
+<li>Cajero.</li>
+
+<li>Mesero.</li>
+
+<li>Domiciliario.</li>
+
+<li>Vendedor sin uso de lenguas extranjeras.</li>
+
+<li>Auxiliar de servicios generales.</li>
+
+<li>Cargos administrativos que no requieran el uso de idiomas ni competencias del programa.</li>
+
+</ul>
+
+</div>
+
 <p>
 
 El profesional en Lenguas Modernas de la Universidad ECCI está preparado para comunicarse en contextos interculturales, gestionar procesos de comunicación en diferentes idiomas y apoyar organizaciones nacionales e internacionales mediante el uso estratégico de las lenguas extranjeras.
