@@ -260,27 +260,88 @@ iniciativa:`
 
 <h2>💼 Pasantía por Iniciativa Propia</h2>
 
+<p>
+
+La Pasantía por Iniciativa Propia permite al estudiante proponer una empresa para desarrollar su práctica profesional, siempre que las funciones estén relacionadas con el perfil del Programa y sean aprobadas institucionalmente.
+
+</p>
+
 <div class="grid-info">
 
 <div class="info-card">
 
-<h3>Antes de iniciar</h3>
+<h3>👤 ¿Quién puede aplicar?</h3>
 
 <ul>
-<li>Enviar carta de intención.</li>
-<li>Revisión de funciones por el Programa.</li>
-<li>Aprobación institucional.</li>
+<li>Estudiantes con el 80 % de créditos aprobados.</li>
+<li>Estudiantes que hayan conseguido una empresa por sus propios medios.</li>
 </ul>
 
 </div>
 
 <div class="info-card">
 
-<h3>Recomendación</h3>
+<h3>🏢 Requisitos de la empresa</h3>
 
-<p>
-No firmes ningún documento con la empresa antes de recibir la aprobación oficial del Programa de Lenguas Modernas.
-</p>
+<ul>
+<li>Existencia legal.</li>
+<li>Funciones acordes al perfil profesional.</li>
+<li>Disposición para firmar convenio cuando sea necesario.</li>
+</ul>
+
+</div>
+
+<div class="info-card">
+
+<h3>📄 Documentos</h3>
+
+<ul>
+<li>Carta de intención.</li>
+<li>Certificado de Cámara de Comercio.</li>
+<li>RUT.</li>
+<li>Documento del representante legal.</li>
+<li>Formato FR-PO-0023.</li>
+</ul>
+
+</div>
+
+<div class="info-card">
+
+<h3>📋 Proceso</h3>
+
+<ol>
+<li>Presentar la empresa.</li>
+<li>Revisión por el Programa.</li>
+<li>Verificación del convenio.</li>
+<li>Aprobación institucional.</li>
+<li>Carta de presentación.</li>
+<li>Inicio de la pasantía.</li>
+</ol>
+
+</div>
+
+<div class="info-card">
+
+<h3>✅ Recomendaciones</h3>
+
+<ul>
+<li>No iniciar actividades sin autorización.</li>
+<li>Conservar todos los documentos.</li>
+<li>Mantener comunicación con el tutor.</li>
+<li>Cumplir el plan de trabajo.</li>
+</ul>
+
+</div>
+
+<div class="info-card alerta">
+
+<h3>🚫 No será aprobada cuando</h3>
+
+<ul>
+<li>Las funciones no correspondan al perfil profesional.</li>
+<li>La empresa no entregue la documentación requerida.</li>
+<li>El estudiante inicie actividades sin autorización.</li>
+</ul>
 
 </div>
 
