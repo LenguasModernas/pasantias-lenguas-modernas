@@ -66,7 +66,6 @@ Todo el procedimiento institucional para realizar la Pasantía como Opción de G
 </div>
 
 </div>
-<h2>📘 Información General</h2>
 
 <p>
 La Pasantía como Opción de Grado permite aplicar los conocimientos adquiridos durante la carrera mediante una experiencia profesional en una empresa u organización con convenio vigente con la Universidad ECCI.
