@@ -51,7 +51,21 @@ general:`
 <button class="volver" onclick="volverInicio()">
 ← Volver al inicio
 </button>
+<div class="banner-seccion">
 
+<i class="fa-solid fa-book-open"></i>
+
+<div>
+
+<h2>Información General</h2>
+
+<p>
+Todo el procedimiento institucional para realizar la Pasantía como Opción de Grado.
+</p>
+
+</div>
+
+</div>
 <h2>📘 Información General</h2>
 
 <p>
