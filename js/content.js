@@ -405,17 +405,29 @@ iniciativa:`
 
 <h2>💼 Pasantía por Iniciativa Propia</h2>
 
+<p>
+
+Si ya encontraste una empresa donde deseas realizar tu pasantía, el Programa de Lenguas Modernas evaluará la propuesta para verificar que el cargo y las funciones sean pertinentes con el perfil profesional del programa.
+
+</p>
+
 <div class="grid-info">
 
 <div class="info-card">
 
-<h3>📌 ¿Qué es?</h3>
+<h3>📋 Antes de iniciar</h3>
 
-<p>
+<ul>
 
-La Pasantía por Iniciativa Propia permite al estudiante gestionar una oportunidad de práctica en una empresa de su interés. El Programa de Lenguas Modernas evaluará la propuesta para verificar que el cargo y las funciones sean acordes con el perfil profesional y los requisitos institucionales.
+<li>Contacta una empresa interesada en recibirte como pasante.</li>
 
-</p>
+<li>Solicita la carta de intención.</li>
+
+<li>Envía la documentación al Programa.</li>
+
+<li>Espera la revisión y aprobación institucional.</li>
+
+</ul>
 
 </div>
 
@@ -427,11 +439,93 @@ La Pasantía por Iniciativa Propia permite al estudiante gestionar una oportunid
 
 <li>Mayor oferta de vacantes.</li>
 
-<li>Posibilidad de recibir remuneración.</li>
+<li>Más posibilidades de recibir remuneración.</li>
 
-<li>Empresas acordes con tus intereses.</li>
+<li>Puedes escoger un área de tu interés.</li>
 
-<li>Más oportunidades de vinculación laboral.</li>
+<li>Existe una mayor posibilidad de vinculación laboral al finalizar la pasantía.</li>
+
+</ul>
+
+</div>
+
+<div class="info-card">
+
+<h3>🏢 ¿Qué empresa puedo proponer?</h3>
+
+<p>
+
+Puedes proponer cualquier empresa, entidad u organización, pública o privada, siempre que el cargo y las funciones estén alineados con el perfil profesional del egresado de Lenguas Modernas de la Universidad ECCI.
+
+</p>
+
+<ul>
+
+<li>✔ Empresas nacionales o internacionales.</li>
+
+<li>✔ Entidades públicas.</li>
+
+<li>✔ Organizaciones sin ánimo de lucro.</li>
+
+<li>✔ Instituciones educativas.</li>
+
+<li>✔ Agencias de traducción e interpretación.</li>
+
+<li>✔ Empresas de tecnología, turismo, comercio, logística, mercadeo y servicios.</li>
+
+</ul>
+
+</div>
+
+<div class="info-card importante">
+
+<h3>🎯 ¿Qué revisa el Programa?</h3>
+
+<p>
+
+La aprobación no depende únicamente de la empresa. El Programa evaluará que el cargo y las funciones permitan desarrollar las competencias profesionales de un egresado de Lenguas Modernas.
+
+</p>
+
+</div>
+
+<div class="info-card">
+
+<h3>👨‍🎓 Perfil profesional</h3>
+
+<p>
+
+El profesional en Lenguas Modernas de la Universidad ECCI está preparado para comunicarse en contextos interculturales, gestionar procesos de comunicación en diferentes idiomas y apoyar organizaciones nacionales e internacionales mediante el uso estratégico de las lenguas extranjeras.
+
+</p>
+
+<p>
+
+Por esta razón, las funciones de la pasantía deben contribuir al fortalecimiento de dichas competencias.
+
+</p>
+
+</div>
+
+<div class="info-card">
+
+<h3>📄 ¿Qué necesitamos para evaluar la empresa?</h3>
+
+<p>
+
+La empresa debe enviar una <strong>carta de intención</strong> en papel membrete, firmada por el responsable de Gestión Humana o quien haga sus veces, indicando:
+
+</p>
+
+<ul>
+
+<li>Nombre de la empresa.</li>
+
+<li>Cargo que desempeñará el estudiante.</li>
+
+<li>Funciones principales.</li>
+
+<li>Datos de contacto de la empresa.</li>
 
 </ul>
 
@@ -443,7 +537,7 @@ La Pasantía por Iniciativa Propia permite al estudiante gestionar una oportunid
 
 <p>
 
-Se recomienda que cada estudiante gestione la búsqueda de su empresa. Esta modalidad amplía las posibilidades de encontrar un cargo relacionado con su perfil profesional y sus expectativas de crecimiento.
+Buscar tu propia empresa suele ofrecer mayores oportunidades de encontrar una práctica alineada con tus intereses profesionales y con mejores posibilidades de remuneración y vinculación laboral.
 
 </p>
 
@@ -455,7 +549,7 @@ Se recomienda que cada estudiante gestione la búsqueda de su empresa. Esta moda
 
 <p>
 
-La aceptación de la empresa dependerá de la evaluación realizada por el Programa de Lenguas Modernas.
+No debes iniciar actividades en la empresa hasta recibir la aprobación del Programa y cumplir completamente el procedimiento institucional.
 
 </p>
 
@@ -466,7 +560,6 @@ La aceptación de la empresa dependerá de la evaluación realizada por el Progr
 </div>
 
 `,
-
 faq:`
 
 <div class="contenedor-info">
