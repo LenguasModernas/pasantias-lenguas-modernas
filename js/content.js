@@ -283,10 +283,25 @@ iniciativa:`
 <div class="contenedor-info">
 
 <button class="volver" onclick="volverInicio()">
-<i class="fa-solid fa-arrow-left"></i> Volver
+← Volver al inicio
 </button>
+<div class="banner-seccion">
 
-<h2>💼 Pasantía por Iniciativa Propia</h2>
+<i class="fa-solid fa-briefcase"></i>
+
+<div>
+
+<h2>Iniciativa Propia</h2>
+
+<p>
+
+Propón una empresa para desarrollar tu pasantía y realiza el proceso con el acompañamiento del Programa de Lenguas Modernas.
+
+</p>
+
+</div>
+
+</div>
 
 <p>
 
