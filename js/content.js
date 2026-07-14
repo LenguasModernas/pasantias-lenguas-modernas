@@ -154,25 +154,92 @@ internacional:`
 
 <h2>🌍 Pasantía Internacional</h2>
 
+<p>
+
+La Pasantía Internacional permite al estudiante realizar su práctica profesional en una empresa u organización ubicada fuera de Colombia, fortaleciendo sus competencias interculturales, lingüísticas y profesionales.
+
+</p>
+
 <div class="grid-info">
 
 <div class="info-card">
 
-<h3>🌎 Agencias autorizadas</h3>
+<h3>🎯 Beneficios</h3>
 
 <ul>
-<li>Gastronomie France</li>
-<li>Oak Let's Go</li>
+<li>Experiencia laboral internacional.</li>
+<li>Fortalecimiento del perfil profesional.</li>
+<li>Desarrollo de competencias interculturales.</li>
+<li>Mejora del nivel de idiomas.</li>
+<li>Ampliación de la red profesional.</li>
 </ul>
 
 </div>
 
 <div class="info-card">
 
-<h3>📌 Importante</h3>
+<h3>✅ Requisitos</h3>
+
+<ul>
+<li>Tener aprobado al menos el 80 % de los créditos.</li>
+<li>Cumplir los requisitos institucionales.</li>
+<li>Ser aceptado por una empresa en el exterior.</li>
+<li>Contar con la aprobación del Programa.</li>
+<li>Cumplir los requisitos migratorios del país de destino.</li>
+</ul>
+
+</div>
+
+<div class="info-card">
+
+<h3>🌎 Agencias autorizadas</h3>
+
+<ul>
+<li>Gastronomie France.</li>
+<li>Oak Let's Go.</li>
+<li>Otras agencias previamente avaladas por la Universidad.</li>
+</ul>
+
+</div>
+
+<div class="info-card">
+
+<h3>📋 Proceso</h3>
+
+<ol>
+<li>Elegir la agencia.</li>
+<li>Postularse.</li>
+<li>Entrevista.</li>
+<li>Carta de aceptación.</li>
+<li>Aprobación del Programa.</li>
+<li>Pago de la opción de grado.</li>
+<li>Inicio de la pasantía.</li>
+</ol>
+
+</div>
+
+<div class="info-card">
+
+<h3>📄 Documentos</h3>
+
+<ul>
+<li>Carta de aceptación.</li>
+<li>Formato FR-PO-0023.</li>
+<li>Copia del pasaporte (cuando aplique).</li>
+<li>Visa o permiso correspondiente.</li>
+<li>Afiliación al seguro exigido.</li>
+</ul>
+
+</div>
+
+<div class="info-card importante">
+
+<h3>⚠ Importante</h3>
 
 <p>
-Solo se aprueban procesos gestionados mediante agencias autorizadas por el Programa.
+
+La Universidad únicamente reconocerá procesos previamente autorizados por el Programa de Lenguas Modernas.
+
 </p>
 
 </div>
