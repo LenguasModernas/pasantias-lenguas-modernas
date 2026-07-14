@@ -146,31 +146,38 @@ La práctica solamente será válida cuando cumpla completamente el procedimient
 
 internacional:`
 
+<div class="contenedor-info">
+
+<button class="volver" onclick="volverInicio()">
+<i class="fa-solid fa-arrow-left"></i> Volver
+</button>
+
 <h2>🌍 Pasantía Internacional</h2>
+
+<div class="grid-info">
 
 <div class="info-card">
 
-<h3>Agencias autorizadas</h3>
+<h3>🌎 Agencias autorizadas</h3>
 
 <ul>
-
 <li>Gastronomie France</li>
-
 <li>Oak Let's Go</li>
-
 </ul>
 
 </div>
 
 <div class="info-card">
 
-<h3>Importante</h3>
+<h3>📌 Importante</h3>
 
 <p>
-
-Solo se aprueban procesos gestionados mediante agencias autorizadas.
-
+Solo se aprueban procesos gestionados mediante agencias autorizadas por el Programa.
 </p>
+
+</div>
+
+</div>
 
 </div>
 
