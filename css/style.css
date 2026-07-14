@@ -1100,3 +1100,13 @@ border-color:#003B71;
 box-shadow:0 0 15px rgba(0,59,113,.15);
 
 }
+
+#resultadoBusqueda{
+
+max-width:1000px;
+
+margin:30px auto;
+
+padding:0 20px;
+
+}
