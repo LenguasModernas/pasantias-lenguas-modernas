@@ -401,8 +401,29 @@ faq:`
 <button class="volver" onclick="volverInicio()">
 ← Volver al inicio
 </button>
+<div class="contenedor-info">
 
-<h2>❓ Preguntas Frecuentes</h2>
+<button class="volver" onclick="volverInicio()">
+← Volver al inicio
+</button>
+
+<div class="banner-seccion">
+
+<i class="fa-solid fa-circle-question"></i>
+
+<div>
+
+<h2>Preguntas Frecuentes</h2>
+
+<p>
+
+Encuentra respuestas rápidas a las consultas más frecuentes sobre la Pasantía como Opción de Grado.
+
+</p>
+
+</div>
+
+</div>
 
 <div class="accordion">
 
