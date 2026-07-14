@@ -578,6 +578,24 @@ Algunos cargos no permiten desarrollar las competencias del programa y, por tant
 
 </div>
 
+<div class="info-card importante">
+
+<h3>📌 Cada caso se evalúa individualmente</h3>
+
+<p>
+
+La aprobación no depende únicamente del nombre del cargo.
+
+</p>
+
+<p>
+
+El Programa analizará principalmente las funciones que desempeñará el estudiante y verificará que estas contribuyan al desarrollo de las competencias del perfil de egreso de Lenguas Modernas.
+
+</p>
+
+</div>
+
 <p>
 
 El profesional en Lenguas Modernas de la Universidad ECCI está preparado para comunicarse en contextos interculturales, gestionar procesos de comunicación en diferentes idiomas y apoyar organizaciones nacionales e internacionales mediante el uso estratégico de las lenguas extranjeras.
