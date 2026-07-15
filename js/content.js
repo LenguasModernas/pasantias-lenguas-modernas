@@ -219,7 +219,145 @@ internacional: `
 `,
 
 iniciativa: `
-<h2>Próximamente...</h2>
+
+<div class="contenedor-info">
+
+<h2>🏢 Pasantía por iniciativa propia</h2>
+
+<p class="intro">
+
+Si encuentras una empresa por tu cuenta, podrás postularte para realizar allí tu práctica profesional. Esta modalidad suele ofrecer mayores oportunidades de remuneración, mejores horarios y una mayor variedad de cargos.
+
+</p>
+
+<div class="info-card">
+
+<h3>⭐ ¿Por qué buscar tu propia empresa?</h3>
+
+<ul>
+
+<li>Mayor oferta de vacantes.</li>
+
+<li>Posibilidad de recibir remuneración.</li>
+
+<li>Más opciones de horario y ubicación.</li>
+
+<li>Puedes elegir una empresa alineada con tus intereses profesionales.</li>
+
+</ul>
+
+</div>
+
+<div class="info-card">
+
+<h3>✅ Antes de iniciar</h3>
+
+<p>
+
+La empresa debe ofrecer un cargo y unas funciones relacionadas con el perfil de egreso del Programa de Lenguas Modernas de la Universidad ECCI.
+
+</p>
+
+</div>
+
+<div class="info-card">
+
+<h3>👨‍🎓 Perfil profesional</h3>
+
+<p>
+
+El profesional en Lenguas Modernas de la Universidad ECCI está preparado para desempeñarse en contextos organizacionales nacionales e internacionales, utilizando competencias comunicativas, interculturales y tecnológicas para apoyar procesos de comunicación, gestión empresarial, traducción, interpretación, internacionalización y relacionamiento con clientes y aliados.
+
+</p>
+
+</div>
+
+<div class="info-card">
+
+<h3>💼 Algunos cargos que pueden ser aprobados</h3>
+
+<ul>
+
+<li>Analista de Comercio Exterior.</li>
+
+<li>Analista de Relaciones Internacionales.</li>
+
+<li>Analista de Compras Internacionales.</li>
+
+<li>Analista de Mercadeo.</li>
+
+<li>Analista de Comunicaciones.</li>
+
+<li>Analista de Internacionalización.</li>
+
+<li>Traductor.</li>
+
+<li>Intérprete.</li>
+
+<li>Asistente Administrativo Bilingüe.</li>
+
+<li>Auxiliar de Comercio Exterior.</li>
+
+<li>Community Manager.</li>
+
+<li>Ejecutivo de Cuenta Bilingüe.</li>
+
+</ul>
+
+<p>
+
+<strong>Importante:</strong> esta lista es solo una referencia. El Programa evaluará cada caso según las funciones asignadas.
+
+</p>
+
+</div>
+
+<div class="info-card">
+
+<h3>📄 ¿Qué debe enviar la empresa?</h3>
+
+<p>
+
+Para iniciar la revisión, la empresa debe enviar una <strong>carta de intención en papel membrete</strong>, firmada por el responsable de Gestión Humana o quien haga sus veces.
+
+</p>
+
+<p>
+
+La carta debe indicar claramente:
+
+</p>
+
+<ul>
+
+<li>Nombre de la empresa.</li>
+
+<li>Cargo ofrecido.</li>
+
+<li>Funciones que desempeñará el estudiante.</li>
+
+<li>Ciudad donde realizará la práctica.</li>
+
+<li>Datos de contacto del responsable.</li>
+
+</ul>
+
+</div>
+
+<div class="info-card">
+
+<h3>✔️ ¿Qué hace el Programa?</h3>
+
+<p>
+
+El Programa revisará el cargo y las funciones propuestas para verificar que estén alineadas con el perfil de formación. Si cumplen los requisitos, se continuará con el proceso institucional de práctica profesional.
+
+</p>
+
+</div>
+
+</div>
+
 `,
 
 faq: `
