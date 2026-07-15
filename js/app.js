@@ -109,7 +109,7 @@ Consultar
 
 <div class="dashboard-grid">
 
-<div class="dashboard-card">
+<div class="dashboard-card" onclick="mostrar('general')">
 <div class="dashboard-icon">🎓</div>
 <h3>80 %</h3>
 <p>Créditos mínimos aprobados</p>
