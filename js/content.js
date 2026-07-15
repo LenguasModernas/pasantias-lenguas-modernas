@@ -862,7 +862,6 @@ faq:`
 <button class="volver" onclick="volverInicio()">
 ← Volver al inicio
 </button>
-<div class="contenedor-info">
 
 <button class="volver" onclick="volverInicio()">
 ← Volver al inicio
