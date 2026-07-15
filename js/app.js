@@ -121,7 +121,7 @@ Consultar
 <p>Horas de práctica</p>
 </div>
 
-<div class="dashboard-card">
+<div class="dashboard-card" onclick="mostrar('general')">
 <div class="dashboard-icon">📄</div>
 <h3>FR-PO-0023</h3>
 <p>Formato institucional</p>
