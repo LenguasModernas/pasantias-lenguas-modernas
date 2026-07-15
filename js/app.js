@@ -113,36 +113,54 @@ Consultar
 <div class="dashboard-icon">🎓</div>
 <h3>80 %</h3>
 <p>Créditos mínimos aprobados</p>
+<span class="ver-mas">
+Ver información →
+</span>
 </div>
 
 <div class="dashboard-card" onclick="mostrar('ruta')">
 <div class="dashboard-icon">⏱</div>
 <h3>320–480</h3>
 <p>Horas de práctica</p>
+<span class="ver-mas">
+Ver información →
+</span>
 </div>
 
 <div class="dashboard-card" onclick="mostrar('general')">
 <div class="dashboard-icon">📄</div>
 <h3>FR-PO-0023</h3>
 <p>Formato institucional</p>
+<span class="ver-mas">
+Ver información →
+</span>
 </div>
 
 <div class="dashboard-card" onclick="mostrar('faq')">
 <div class="dashboard-icon">🛡️</div>
 <h3>ARL</h3>
 <p>Obligatoria antes de iniciar</p>
+<span class="ver-mas">
+Ver información →
+</span>
 </div>
 
 <div class="dashboard-card" onclick="mostrar('iniciativa')">
 <div class="dashboard-icon">🏢</div>
 <h3>Convenio</h3>
 <p>Debe estar vigente o tramitarse</p>
+<span class="ver-mas">
+Ver información →
+</span>
 </div>
 
 <div class="dashboard-card" onclick="mostrar('ruta')">
 <div class="dashboard-icon">✅</div>
 <h3>Autorización</h3>
 <p>No inicies sin aprobación del Programa</p>
+<span class="ver-mas">
+Ver información →
+</span>
 </div>
 
 </div>
