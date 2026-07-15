@@ -55,17 +55,21 @@ Sigue estos pasos para realizar correctamente tu proceso de Pasantía como Opci�
 
 </div>
 
-<div class="info-card">
+<div class="timeline-item">
 
-<h3>2️⃣ Consigue una empresa</h3>
+<div class="timeline-numero">
 
-<ul>
+2
 
-<li>Puedes postularte a vacantes existentes.</li>
+</div>
 
-<li>También puedes proponer tu propia empresa.</li>
+<h3>Busca una empresa</h3>
 
-</ul>
+<p>
+
+Puedes postularte a convocatorias o conseguir tu propia empresa.
+
+</p>
 
 </div>
 
