@@ -133,7 +133,7 @@ Consultar
 <p>Obligatoria antes de iniciar</p>
 </div>
 
-<div class="dashboard-card">
+<div class="dashboard-card" onclick="mostrar('iniciativa')">
 <div class="dashboard-icon">🏢</div>
 <h3>Convenio</h3>
 <p>Debe estar vigente o tramitarse</p>
