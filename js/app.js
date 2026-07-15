@@ -103,6 +103,49 @@ Consultar
 
 <h2>🎯 Antes de iniciar tu práctica</h2>
 
+<section class="proceso-practica">
+
+<h2>📍 ¿En qué etapa del proceso estás?</h2>
+
+<div class="progreso">
+
+<div class="etapa completada">
+<div class="circulo">1</div>
+<p>Requisitos</p>
+</div>
+
+<div class="linea"></div>
+
+<div class="etapa">
+<div class="circulo">2</div>
+<p>Empresa</p>
+</div>
+
+<div class="linea"></div>
+
+<div class="etapa">
+<div class="circulo">3</div>
+<p>Documentos</p>
+</div>
+
+<div class="linea"></div>
+
+<div class="etapa">
+<div class="circulo">4</div>
+<p>Aprobación</p>
+</div>
+
+<div class="linea"></div>
+
+<div class="etapa">
+<div class="circulo">5</div>
+<p>Inicio</p>
+</div>
+
+</div>
+
+</section>
+
 <p class="intro">
 
 Realiza estos cuatro pasos antes de comenzar tu proceso de práctica profesional.
