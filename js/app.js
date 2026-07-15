@@ -99,6 +99,78 @@ Consultar
 
 <section id="resultadoBusqueda"></section>
 
+<section class="inicio-practica">
+
+<h2>🎯 Antes de iniciar tu práctica</h2>
+
+<p class="intro">
+
+Realiza estos cuatro pasos antes de comenzar tu proceso de práctica profesional.
+
+</p>
+
+<div class="pasos-grid">
+
+<div class="paso-card">
+
+<div class="numero">1</div>
+
+<h3>Verifica los requisitos</h3>
+
+<p>
+
+Debes haber aprobado al menos el <strong>80 % de los créditos</strong> del programa.
+
+</p>
+
+</div>
+
+<div class="paso-card">
+
+<div class="numero">2</div>
+
+<h3>Busca una empresa</h3>
+
+<p>
+
+Puedes gestionar tu propia empresa o participar en las oportunidades disponibles.
+
+</p>
+
+</div>
+
+<div class="paso-card">
+
+<div class="numero">3</div>
+
+<h3>Solicita la revisión</h3>
+
+<p>
+
+El Programa verificará que el cargo y las funciones sean acordes con el perfil profesional.
+
+</p>
+
+</div>
+
+<div class="paso-card">
+
+<div class="numero">4</div>
+
+<h3>Inicia tu práctica</h3>
+
+<p>
+
+Solo después de recibir la autorización institucional y cumplir todos los requisitos.
+
+</p>
+
+</div>
+
+</div>
+
+</section>
+
 <section class="indicadores fade-up">
 
     <div class="indicador">
