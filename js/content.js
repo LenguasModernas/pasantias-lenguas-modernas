@@ -35,15 +35,21 @@ Sigue estos pasos para realizar correctamente tu proceso de Pasantía como Opci�
 
 <div class="timeline">
 
-<div class="info-card">
+<div class="timeline-item">
 
-<h3>1️⃣ Verifica los requisitos</h3>
+<div class="timeline-numero">
+
+1
+
+</div>
+
+<h3>Verifica los requisitos</h3>
 
 <ul>
 
 <li>Tener aprobado mínimo el 80 % de los créditos.</li>
 
-<li>Revisar el reglamento de pasantías.</li>
+<li>Revisar la información del portal.</li>
 
 </ul>
 
