@@ -91,17 +91,21 @@ Debe indicar el cargo y las funciones que desempeñarás.
 
 </div>
 
-<div class="info-card">
+<div class="timeline-item">
 
-<h3>4️⃣ Envía la documentación</h3>
+<div class="timeline-numero">
 
-<ul>
+4
 
-<li>Carta de intención.</li>
+</div>
 
-<li>Información solicitada por el Programa.</li>
+<h3>Envía la documentación</h3>
 
-</ul>
+<p>
+
+El Programa revisará si el cargo y las funciones cumplen con el perfil profesional.
+
+</p>
 
 </div>
 
