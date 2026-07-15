@@ -26,6 +26,8 @@ app.innerHTML = `
 
     <a href="#" onclick="volverInicio()">Inicio</a>
 
+    <a href="#" onclick="mostrar('ruta')">Ruta</a>
+
     <a href="#" onclick="mostrar('general')">General</a>
 
     <a href="#" onclick="mostrar('internacional')">Internacional</a>
