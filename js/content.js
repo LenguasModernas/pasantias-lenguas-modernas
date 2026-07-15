@@ -361,7 +361,135 @@ El Programa revisará el cargo y las funciones propuestas para verificar que est
 `,
 
 faq: `
-<h2>Próximamente...</h2>
-`
+
+<div class="contenedor-info">
+
+<h2>❓ Preguntas Frecuentes</h2>
+
+<p class="intro">
+
+Aquí encontrarás respuesta a las consultas más comunes sobre el proceso de práctica profesional.
+
+</p>
+
+<div class="accordion">
+
+<div class="accordion-item">
+
+<button class="accordion-header">
+¿Cuándo puedo iniciar mi práctica?
+</button>
+
+<div class="accordion-body">
+
+Únicamente cuando el Programa autorice oficialmente el inicio del proceso y se hayan cumplido todos los requisitos administrativos.
+
+</div>
+
+</div>
+
+<div class="accordion-item">
+
+<button class="accordion-header">
+¿Puedo comenzar a trabajar antes de la aprobación?
+</button>
+
+<div class="accordion-body">
+
+No. Las horas realizadas antes de la autorización institucional no podrán ser reconocidas como práctica profesional.
+
+</div>
+
+</div>
+
+<div class="accordion-item">
+
+<button class="accordion-header">
+¿Cuántas horas debo cumplir?
+</button>
+
+<div class="accordion-body">
+
+La práctica tiene una duración entre <strong>320 y 480 horas</strong>, según el plan de estudios.
+
+</div>
+
+</div>
+
+<div class="accordion-item">
+
+<button class="accordion-header">
+¿Puedo conseguir mi propia empresa?
+</button>
+
+<div class="accordion-body">
+
+Sí. De hecho, es una de las opciones más recomendadas, ya que normalmente ofrece una mayor disponibilidad de vacantes y mejores posibilidades de remuneración.
+
+</div>
+
+</div>
+
+<div class="accordion-item">
+
+<button class="accordion-header">
+¿Qué debe enviar la empresa?
+</button>
+
+<div class="accordion-body">
+
+Una carta de intención en papel membrete, firmada por el responsable de Gestión Humana, indicando el cargo y las funciones que desempeñará el estudiante.
+
+</div>
+
+</div>
+
+<div class="accordion-item">
+
+<button class="accordion-header">
+¿Todos los cargos son aprobados?
+</button>
+
+<div class="accordion-body">
+
+No. El Programa revisa que el cargo y las funciones estén alineados con el perfil de egreso del profesional en Lenguas Modernas de la Universidad ECCI.
+
+</div>
+
+</div>
+
+<div class="accordion-item">
+
+<button class="accordion-header">
+¿Quién realiza el convenio con la empresa?
+</button>
+
+<div class="accordion-body">
+
+La Universidad ECCI gestiona el convenio institucional cuando la empresa no tiene uno vigente y el cargo cumple con los requisitos académicos.
+
+</div>
+
+</div>
+
+<div class="accordion-item">
+
+<button class="accordion-header">
+¿Debo afiliarme a la ARL?
+</button>
+
+<div class="accordion-body">
+
+Sí. La afiliación a la ARL es obligatoria antes del inicio de la práctica profesional.
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+`,
 
 };
