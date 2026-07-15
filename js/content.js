@@ -1,22 +1,45 @@
 const portal = {
 
-    titulo: "Portal de Prácticas y Pasantías",
+    titulo: "...",
 
-    programa: "Programa de Lenguas Modernas",
+    programa: "...",
 
-    universidad: "Universidad ECCI",
+    universidad: "...",
 
-    descripcion:
-        "Consulta toda la información oficial sobre la Pasantía como Opción de Grado.",
+    descripcion: "...",
 
     opciones: [
 
         {
-            id: "general",
-           icono:'<i class="fa-solid fa-book-open"></i>',
-            titulo: "Información General",
-            descripcion: "Requisitos, documentos, costos y proceso institucional."
+            id:"general",
+            ...
         },
+
+        {
+            id:"ruta",
+            icono:'<i class="fa-solid fa-route"></i>',
+            titulo:"Ruta del Estudiante",
+            descripcion:"Conoce paso a paso cómo realizar tu proceso."
+        },
+
+        {
+            id:"internacional",
+            ...
+        },
+
+        {
+            id:"iniciativa",
+            ...
+        },
+
+        {
+            id:"faq",
+            ...
+        }
+
+    ]
+
+};
 ruta:`
 
 <div class="contenedor-info">
