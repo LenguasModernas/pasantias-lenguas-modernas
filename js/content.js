@@ -151,7 +151,67 @@ Solo podrás iniciar cuando recibas la aprobación del Programa y se formalice e
 `,
     
 general: `
-<h2>Próximamente...</h2>
+
+<div class="contenedor-info">
+
+<h2>🎓 Pasantía Nacional</h2>
+
+<p class="intro">
+La pasantía nacional es una opción de grado que permite al estudiante aplicar sus conocimientos en un entorno profesional mediante un convenio entre la Universidad ECCI y una organización.
+</p>
+
+<div class="info-card">
+
+<h3>✅ Requisitos</h3>
+
+<ul>
+
+<li>Tener aprobado al menos el <strong>80 % de los créditos</strong>.</li>
+
+<li>Contar con una empresa interesada.</li>
+
+<li>Las funciones deben estar relacionadas con el perfil profesional del programa.</li>
+
+<li>Radicar la documentación requerida.</li>
+
+<li>Esperar la aprobación institucional antes de iniciar.</li>
+
+</ul>
+
+</div>
+
+<div class="info-card">
+
+<h3>⏱ Duración</h3>
+
+<p>
+
+La práctica tiene una duración entre <strong>320 y 480 horas</strong>, según lo establecido por el Programa.
+
+</p>
+
+</div>
+
+<div class="info-card">
+
+<h3>📄 Documentos principales</h3>
+
+<ul>
+
+<li>Formato FR-PO-0023.</li>
+
+<li>Carta de aceptación o intención de la empresa.</li>
+
+<li>Convenio (si aplica).</li>
+
+<li>Afiliación a la ARL.</li>
+
+</ul>
+
+</div>
+
+</div>
+
 `,
 
 internacional: `
