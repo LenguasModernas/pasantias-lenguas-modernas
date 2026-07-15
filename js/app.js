@@ -115,7 +115,7 @@ Consultar
 <p>Créditos mínimos aprobados</p>
 </div>
 
-<div class="dashboard-card">
+<div class="dashboard-card" onclick="mostrar('ruta')">
 <div class="dashboard-icon">⏱</div>
 <h3>320–480</h3>
 <p>Horas de práctica</p>
