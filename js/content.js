@@ -109,13 +109,19 @@ El Programa revisará si el cargo y las funciones cumplen con el perfil profesio
 
 </div>
 
-<div class="info-card">
+<div class="timeline-item">
 
-<h3>5️⃣ Espera la revisión</h3>
+<div class="timeline-numero">
+
+5
+
+</div>
+
+<h3>Espera la aprobación</h3>
 
 <p>
 
-El Programa verificará que el cargo y las funciones correspondan al perfil profesional del egresado.
+No inicies actividades hasta recibir la autorización institucional.
 
 </p>
 
