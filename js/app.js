@@ -139,7 +139,7 @@ Consultar
 <p>Debe estar vigente o tramitarse</p>
 </div>
 
-<div class="dashboard-card">
+<div class="dashboard-card" onclick="mostrar('ruta')">
 <div class="dashboard-icon">✅</div>
 <h3>Autorización</h3>
 <p>No inicies sin aprobación del Programa</p>
