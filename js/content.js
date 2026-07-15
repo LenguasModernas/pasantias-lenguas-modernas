@@ -17,6 +17,135 @@ const portal = {
             titulo: "Información General",
             descripcion: "Requisitos, documentos, costos y proceso institucional."
         },
+ruta:`
+
+<div class="contenedor-info">
+
+<button class="volver" onclick="volverInicio()">
+← Volver al inicio
+</button>
+
+<h2>🧭 Ruta del Estudiante</h2>
+
+<p>
+
+Sigue estos pasos para realizar correctamente tu proceso de Pasantía como Opción de Grado.
+
+</p>
+
+<div class="grid-info">
+
+<div class="info-card">
+
+<h3>1️⃣ Verifica los requisitos</h3>
+
+<ul>
+
+<li>Tener aprobado mínimo el 80 % de los créditos.</li>
+
+<li>Revisar el reglamento de pasantías.</li>
+
+</ul>
+
+</div>
+
+<div class="info-card">
+
+<h3>2️⃣ Consigue una empresa</h3>
+
+<ul>
+
+<li>Puedes postularte a vacantes existentes.</li>
+
+<li>También puedes proponer tu propia empresa.</li>
+
+</ul>
+
+</div>
+
+<div class="info-card">
+
+<h3>3️⃣ Solicita la carta de intención</h3>
+
+<ul>
+
+<li>Debe estar en papel membrete.</li>
+
+<li>Firmada por Gestión Humana.</li>
+
+<li>Debe indicar cargo y funciones.</li>
+
+</ul>
+
+</div>
+
+<div class="info-card">
+
+<h3>4️⃣ Envía la documentación</h3>
+
+<ul>
+
+<li>Carta de intención.</li>
+
+<li>Información solicitada por el Programa.</li>
+
+</ul>
+
+</div>
+
+<div class="info-card">
+
+<h3>5️⃣ Espera la revisión</h3>
+
+<p>
+
+El Programa verificará que el cargo y las funciones correspondan al perfil profesional del egresado.
+
+</p>
+
+</div>
+
+<div class="info-card">
+
+<h3>6️⃣ Recibe la aprobación</h3>
+
+<p>
+
+Una vez aprobado el proceso, podrás continuar con los trámites institucionales.
+
+</p>
+
+</div>
+
+<div class="info-card">
+
+<h3>7️⃣ Realiza el pago</h3>
+
+<p>
+
+El pago de la opción de grado solo debe realizarse cuando el Programa lo autorice.
+
+</p>
+
+</div>
+
+<div class="info-card alerta">
+
+<h3>8️⃣ Inicia tu pasantía</h3>
+
+<p>
+
+Únicamente después de contar con la Carta de Presentación Institucional, la afiliación a la ARL y las demás autorizaciones requeridas.
+
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+`,
 {
     id: "ruta",
     icono:'<i class="fa-solid fa-route"></i>',
