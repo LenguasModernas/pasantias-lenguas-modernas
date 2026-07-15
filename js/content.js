@@ -127,13 +127,19 @@ No inicies actividades hasta recibir la autorización institucional.
 
 </div>
 
-<div class="info-card">
+<div class="timeline-item">
 
-<h3>6️⃣ Recibe la aprobación</h3>
+<div class="timeline-numero">
+
+6
+
+</div>
+
+<h3>Inicia tu pasantía</h3>
 
 <p>
 
-Una vez aprobado el proceso, podrás continuar con los trámites institucionales.
+Cuando tengas la Carta de Presentación Institucional y la afiliación a la ARL.
 
 </p>
 
