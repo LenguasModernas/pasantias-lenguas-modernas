@@ -127,7 +127,7 @@ Consultar
 <p>Formato institucional</p>
 </div>
 
-<div class="dashboard-card">
+<div class="dashboard-card" onclick="mostrar('faq')">
 <div class="dashboard-icon">🛡️</div>
 <h3>ARL</h3>
 <p>Obligatoria antes de iniciar</p>
