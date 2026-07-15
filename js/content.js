@@ -17,7 +17,12 @@ const portal = {
             titulo: "Información General",
             descripcion: "Requisitos, documentos, costos y proceso institucional."
         },
-
+{
+    id: "ruta",
+    icono:'<i class="fa-solid fa-route"></i>',
+    titulo: "Ruta del Estudiante",
+    descripcion: "Conoce paso a paso cómo realizar tu proceso de pasantía."
+},
         {
             id: "internacional",
             icono:'<i class="fa-solid fa-earth-americas"></i>',
