@@ -73,19 +73,21 @@ Puedes postularte a convocatorias o conseguir tu propia empresa.
 
 </div>
 
-<div class="info-card">
+<div class="timeline-item">
 
-<h3>3️⃣ Solicita la carta de intención</h3>
+<div class="timeline-numero">
 
-<ul>
+3
 
-<li>Debe estar en papel membrete.</li>
+</div>
 
-<li>Firmada por Gestión Humana.</li>
+<h3>Solicita la carta de intención</h3>
 
-<li>Debe indicar cargo y funciones.</li>
+<p>
 
-</ul>
+Debe indicar el cargo y las funciones que desempeñarás.
+
+</p>
 
 </div>
 
