@@ -677,6 +677,13 @@ La aprobación no depende únicamente de la empresa. El Programa evaluará que e
 <div class="info-card">
 
 <h3>👨‍🎓 Perfil profesional</h3>
+
+<p>
+El profesional en Lenguas Modernas...
+</p>
+
+</div>
+
 <div class="info-card">
 
 <h3>💼 Ejemplos de cargos que pueden ser aprobados</h3>
