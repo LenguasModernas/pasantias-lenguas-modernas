@@ -1550,3 +1550,67 @@ margin-bottom:15px;
 color:#003B7A;
 
 }
+
+.proceso-practica{
+
+max-width:1200px;
+margin:70px auto;
+padding:0 25px;
+text-align:center;
+
+}
+
+.progreso{
+
+display:flex;
+align-items:center;
+justify-content:center;
+flex-wrap:wrap;
+margin-top:40px;
+
+}
+
+.etapa{
+
+display:flex;
+flex-direction:column;
+align-items:center;
+
+}
+
+.circulo{
+
+width:55px;
+height:55px;
+border-radius:50%;
+background:#dcdcdc;
+display:flex;
+align-items:center;
+justify-content:center;
+font-weight:bold;
+font-size:1.2rem;
+
+}
+
+.etapa.completada .circulo{
+
+background:#0d6efd;
+color:white;
+
+}
+
+.linea{
+
+width:70px;
+height:4px;
+background:#dcdcdc;
+margin:0 15px;
+
+}
+
+.etapa p{
+
+margin-top:12px;
+font-weight:600;
+
+}
