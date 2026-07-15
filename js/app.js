@@ -103,6 +103,52 @@ Consultar
 
 <h2>🎯 Antes de iniciar tu práctica</h2>
 
+<section class="dashboard">
+
+<h2>📌 Información rápida</h2>
+
+<div class="dashboard-grid">
+
+<div class="dashboard-card">
+<div class="dashboard-icon">🎓</div>
+<h3>80 %</h3>
+<p>Créditos mínimos aprobados</p>
+</div>
+
+<div class="dashboard-card">
+<div class="dashboard-icon">⏱</div>
+<h3>320–480</h3>
+<p>Horas de práctica</p>
+</div>
+
+<div class="dashboard-card">
+<div class="dashboard-icon">📄</div>
+<h3>FR-PO-0023</h3>
+<p>Formato institucional</p>
+</div>
+
+<div class="dashboard-card">
+<div class="dashboard-icon">🛡️</div>
+<h3>ARL</h3>
+<p>Obligatoria antes de iniciar</p>
+</div>
+
+<div class="dashboard-card">
+<div class="dashboard-icon">🏢</div>
+<h3>Convenio</h3>
+<p>Debe estar vigente o tramitarse</p>
+</div>
+
+<div class="dashboard-card">
+<div class="dashboard-icon">✅</div>
+<h3>Autorización</h3>
+<p>No inicies sin aprobación del Programa</p>
+</div>
+
+</div>
+
+</section>
+
 <section class="proceso-practica">
 
 <h2>📍 ¿En qué etapa del proceso estás?</h2>
