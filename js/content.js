@@ -33,7 +33,7 @@ Sigue estos pasos para realizar correctamente tu proceso de Pasant√≠a como Opci√
 
 </p>
 
-<div class="grid-info">
+<div class="timeline">
 
 <div class="info-card">
 
