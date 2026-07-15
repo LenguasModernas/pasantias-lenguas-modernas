@@ -82,4 +82,88 @@ const portal = {
 
 const informacion = {
 
+ruta: `
+
+<div class="contenedor-info">
+
+<h2>🧭 Ruta del Estudiante</h2>
+
+<p class="intro">
+
+Sigue esta ruta para realizar tu práctica o pasantía de manera correcta y evitar retrasos en el proceso.
+
+</p>
+
+<div class="timeline">
+
+<div class="timeline-item">
+
+<h3>1. Verifica los requisitos</h3>
+
+<p>
+Debes haber aprobado al menos el 80 % de los créditos del programa.
+</p>
+
+</div>
+
+<div class="timeline-item">
+
+<h3>2. Consigue una empresa</h3>
+
+<p>
+Puedes postularte a ofertas existentes o gestionar una empresa por iniciativa propia.
+</p>
+
+</div>
+
+<div class="timeline-item">
+
+<h3>3. Solicita la revisión del cargo</h3>
+
+<p>
+El Programa verificará que las funciones correspondan al perfil profesional del programa.
+</p>
+
+</div>
+
+<div class="timeline-item">
+
+<h3>4. Radica los documentos</h3>
+
+<p>
+Entrega la documentación requerida para iniciar el proceso institucional.
+</p>
+
+</div>
+
+<div class="timeline-item">
+
+<h3>5. Espera la autorización</h3>
+
+<p>
+Solo podrás iniciar cuando recibas la aprobación del Programa y se formalice el proceso.
+</p>
+
+</div>
+
+</div>
+
+`,
+    
+general: `
+<h2>Próximamente...</h2>
+`,
+
+internacional: `
+<h2>Próximamente...</h2>
+`,
+
+iniciativa: `
+<h2>Próximamente...</h2>
+`,
+
+faq: `
+<h2>Próximamente...</h2>
+`
+
 };
