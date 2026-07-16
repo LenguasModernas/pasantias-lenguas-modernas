@@ -546,7 +546,7 @@ Cada empresa define las condiciones de la práctica. Estas pueden variar de una 
 
 <p>
 
-No realices pagos...
+No realices pagos, compres tiquetes aéreos, solicites visas o inicies tu desplazamiento al país de destino sin haber recibido la aprobación oficial del Programa de Lenguas Modernas de la Universidad ECCI y sin haber completado todos los requisitos institucionales. El incumplimiento de este procedimiento puede afectar el reconocimiento de la práctica profesional.
 
 </p>
 
