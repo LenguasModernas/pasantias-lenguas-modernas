@@ -482,18 +482,6 @@ Cada empresa define las condiciones de la práctica. Estas pueden variar de una 
 
 <div class="info-card">
 
-<h3>🛫 Proceso</h3>
-
-<div class="timeline">
-
-<div class="timeline-item">
-
-<h4>1. Contactar la agencia</h4>
-
-</div>
-
-<div class="info-card">
-
 <h3>💡 Recomendaciones antes de postularte</h3>
 
 <ul>
@@ -509,6 +497,18 @@ Cada empresa define las condiciones de la práctica. Estas pueden variar de una 
 <li>Mantén comunicación permanente con el Programa de Lenguas Modernas durante todo el proceso.</li>
 
 </ul>
+
+</div>
+
+<div class="info-card">
+
+<h3>🛫 Proceso</h3>
+
+<div class="timeline">
+
+<div class="timeline-item">
+
+<h4>1. Contactar la agencia</h4>
 
 </div>
 
