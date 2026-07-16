@@ -1728,3 +1728,19 @@ font-weight:600;
 color:#003B7A;
 
 }
+
+.nota{
+
+margin-top:20px;
+
+padding:15px;
+
+background:#FFF8E1;
+
+border-left:5px solid #FFC107;
+
+border-radius:8px;
+
+font-size:.95rem;
+
+}
