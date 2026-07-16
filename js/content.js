@@ -7,7 +7,7 @@ const portal = {
     programa: "Programa de Lenguas Modernas",
 
     descripcion:
-        "Encuentra toda la información oficial para realizar tu pasantía como opción d egrado de forma clara, organizada y paso a paso.",
+        "Encuentra toda la información oficial para realizar tu pasantía como opción de grado de forma clara, organizada y paso a paso.",
 
     opciones: [
 
@@ -90,7 +90,7 @@ ruta: `
 
 <p class="intro">
 
-Sigue esta ruta para realizar tu pasantía o pasantía de manera correcta y evitar retrasos en el proceso.
+Sigue esta ruta para realizar tu pasantía de manera correcta y evitar retrasos en el proceso.
 
 </p>
 
