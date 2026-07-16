@@ -454,6 +454,34 @@ La pasantía internacional implica una inversión económica que puede variar se
 
 <div class="info-card">
 
+<h3>🏢 ¿Qué puede ofrecer la empresa?</h3>
+
+<ul>
+
+<li>Remuneración económica (según el país y la empresa).</li>
+
+<li>Alojamiento.</li>
+
+<li>Alimentación.</li>
+
+<li>Apoyo para transporte.</li>
+
+<li>Capacitación inicial.</li>
+
+<li>Experiencia profesional internacional.</li>
+
+</ul>
+
+<p>
+
+Cada empresa define las condiciones de la práctica. Estas pueden variar de una oferta a otra.
+
+</p>
+
+</div>
+
+<div class="info-card">
+
 <h3>🛫 Proceso</h3>
 
 <div class="timeline">
