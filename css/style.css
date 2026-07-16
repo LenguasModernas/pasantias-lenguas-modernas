@@ -1,5 +1,5 @@
 /* ===========================================================
-   PORTAL DE PRÁCTICAS Y PASANTÍAS
+   PORTAL DE PASANTÍAS
    Programa de Lenguas Modernas - Universidad ECCI
 =========================================================== */
 
@@ -1485,7 +1485,7 @@ font-size:18px;
 
 }
 
-.inicio-practica{
+.inicio-pasantía{
 
 max-width:1200px;
 margin:70px auto;
@@ -1494,7 +1494,7 @@ text-align:center;
 
 }
 
-.inicio-practica h2{
+.inicio-pasantía h2{
 
 color:#003B7A;
 font-size:2rem;
@@ -1551,7 +1551,7 @@ color:#003B7A;
 
 }
 
-.proceso-practica{
+.proceso-pasantía{
 
 max-width:1200px;
 margin:70px auto;
