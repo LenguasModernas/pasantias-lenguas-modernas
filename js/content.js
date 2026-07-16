@@ -376,6 +376,84 @@ info@oakletsgo.com
 
 <div class="info-card">
 
+<h3>💰 Costos que debes tener en cuenta</h3>
+
+<p>
+
+La pasantía internacional implica una inversión económica que puede variar según el país, la duración de la práctica y la agencia seleccionada.
+
+</p>
+
+<table class="tabla">
+
+<tr>
+
+<th>Concepto</th>
+
+<th>Observación</th>
+
+</tr>
+
+<tr>
+
+<td>Proceso con la agencia</td>
+
+<td>Depende de la agencia y del destino.</td>
+
+</tr>
+
+<tr>
+
+<td>Pasaporte</td>
+
+<td>Debe estar vigente.</td>
+
+</tr>
+
+<tr>
+
+<td>Visa (cuando aplique)</td>
+
+<td>Depende del país de destino.</td>
+
+</tr>
+
+<tr>
+
+<td>Tiquetes aéreos</td>
+
+<td>Generalmente son asumidos por el estudiante.</td>
+
+</tr>
+
+<tr>
+
+<td>Seguro médico internacional</td>
+
+<td>Obligatorio en la mayoría de destinos.</td>
+
+</tr>
+
+<tr>
+
+<td>Alojamiento y alimentación</td>
+
+<td>Depende de las condiciones ofrecidas por la empresa o la agencia.</td>
+
+</tr>
+
+</table>
+
+<p class="nota">
+
+<strong>Importante:</strong> Estos valores son únicamente referenciales y pueden variar según el país, la empresa y la convocatoria.
+
+</p>
+
+</div>
+
+<div class="info-card">
+
 <h3>🛫 Proceso</h3>
 
 <div class="timeline">
