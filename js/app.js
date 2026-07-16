@@ -74,15 +74,15 @@ Opción de grado
 
 <ul>
 
-<li>Informe final.</li>
+<li>✅ Informe final.</li>
 
-<li>Asignación de calificación.</li>
+<li>✅ Asignación de calificación.</li>
 
-<li>Pago de derechos de opción de grado.</li>
+<li>✅ Pago de derechos de opción de grado.</li>
 
-<li>320 a 480 horas.</li>
+<li>✅ 320 a 480 horas.</li>
 
-<li>Aprobación del Programa.</li>
+<li>✅ Aprobación del Programa.</li>
 
 </ul>
 
@@ -98,15 +98,15 @@ Contrato de aprendizaje
 
 <ul>
 
-<li>Vinculación con una empresa.</li>
+<li>✅ Vinculación con una empresa.</li>
 
-<li>Duración habitual de 6 o 12 meses.</li>
+<li>✅ Duración habitual de 6 o 12 meses.</li>
 
-<li>No corresponde a una opción de grado.</li>
+<li>✅ No corresponde a una opción de grado.</li>
 
-<li>No requiere informe final.</li>
+<li>✅ No requiere informe final.</li>
 
-<li>No genera calificación como opción de grado.</li>
+<li>✅ No genera calificación como opción de grado.</li>
 
 </ul>
 
