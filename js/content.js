@@ -546,11 +546,15 @@ Cada empresa define las condiciones de la práctica. Estas pueden variar de una 
 
 <p>
 
-No realices pagos, compres tiquetes o viajes antes de recibir la aprobación oficial del Programa de Lenguas Modernas y de cumplir todos los requisitos institucionales.
+No realices pagos...
 
 </p>
 
 </div>
+
+</div>
+
+`,
 
 iniciativa: `
 
