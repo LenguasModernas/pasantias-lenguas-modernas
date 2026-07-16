@@ -492,6 +492,26 @@ Cada empresa define las condiciones de la práctica. Estas pueden variar de una 
 
 </div>
 
+<div class="info-card">
+
+<h3>💡 Recomendaciones antes de postularte</h3>
+
+<ul>
+
+<li>Consulta cuidadosamente las condiciones ofrecidas por la agencia.</li>
+
+<li>Verifica si necesitas visa para el país de destino.</li>
+
+<li>Planea tu presupuesto antes de iniciar el proceso.</li>
+
+<li>No realices pagos sin confirmar la información directamente con la agencia autorizada.</li>
+
+<li>Mantén comunicación permanente con el Programa de Lenguas Modernas durante todo el proceso.</li>
+
+</ul>
+
+</div>
+
 <div class="timeline-item">
 
 <h4>2. Obtener la empresa</h4>
