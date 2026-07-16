@@ -99,9 +99,9 @@ Consultar
 
 <section id="resultadoBusqueda"></section>
 
-<section class="inicio-practica">
+<section class="inicio-pasantía">
 
-<h2>🎯 Antes de iniciar tu práctica</h2>
+<h2>🎯 Antes de iniciar tu pasantía</h2>
 
 <section class="dashboard">
 
@@ -121,7 +121,7 @@ Ver información →
 <div class="dashboard-card" onclick="mostrar('ruta')">
 <div class="dashboard-icon">⏱</div>
 <h3>320–480</h3>
-<p>Horas de práctica</p>
+<p>Horas de pasantía</p>
 <span class="ver-mas">
 Ver información →
 </span>
@@ -167,7 +167,7 @@ Ver información →
 
 </section>
 
-<section class="proceso-practica">
+<section class="proceso-pasantía">
 
 <h2>📍 ¿En qué etapa del proceso estás?</h2>
 
@@ -212,7 +212,7 @@ Ver información →
 
 <p class="intro">
 
-Realiza estos cuatro pasos antes de comenzar tu proceso de práctica profesional.
+Realiza estos cuatro pasos antes de comenzar tu proceso de pasantía.
 
 </p>
 
@@ -264,7 +264,7 @@ El Programa verificará que el cargo y las funciones sean acordes con el perfil 
 
 <div class="numero">4</div>
 
-<h3>Inicia tu práctica</h3>
+<h3>Inicia tu pasantía</h3>
 
 <p>
 
