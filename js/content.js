@@ -2,12 +2,12 @@ const portal = {
 
     universidad: "Universidad ECCI",
 
-    titulo: "Portal de Prácticas y Pasantías",
+    titulo: "Información sobre Pasantías",
 
     programa: "Programa de Lenguas Modernas",
 
     descripcion:
-        "Encuentra toda la información oficial para realizar tu práctica profesional o pasantía de forma clara, organizada y paso a paso.",
+        "Encuentra toda la información oficial para realizar tu pasantía como opción d egrado de forma clara, organizada y paso a paso.",
 
     opciones: [
 
@@ -20,7 +20,7 @@ const portal = {
             titulo: "Ruta del Estudiante",
 
             descripcion:
-                "Conoce paso a paso el proceso para iniciar tu práctica."
+                "Conoce paso a paso el proceso para iniciar tu pasantía."
 
         },
 
@@ -46,7 +46,7 @@ const portal = {
             titulo: "Pasantía Internacional",
 
             descripcion:
-                "Información sobre movilidad y prácticas en el exterior."
+                "Información sobre movilidad y pasantías en el exterior."
 
         },
 
@@ -90,7 +90,7 @@ ruta: `
 
 <p class="intro">
 
-Sigue esta ruta para realizar tu práctica o pasantía de manera correcta y evitar retrasos en el proceso.
+Sigue esta ruta para realizar tu pasantía o pasantía de manera correcta y evitar retrasos en el proceso.
 
 </p>
 
@@ -186,7 +186,7 @@ La pasantía nacional es una opción de grado que permite al estudiante aplicar 
 
 <p>
 
-La práctica tiene una duración entre <strong>320 y 480 horas</strong>, según lo establecido por el Programa.
+La pasantía tiene una duración entre <strong>320 y 480 horas</strong>, según lo establecido por el Programa.
 
 </p>
 
@@ -226,7 +226,7 @@ internacional: `
 
 <p class="intro">
 
-La pasantía internacional permite desarrollar la práctica profesional en empresas ubicadas en el exterior mediante agencias autorizadas por la Universidad ECCI.
+La pasantía internacional permite desarrollar la pasantía profesional en empresas ubicadas en el exterior mediante agencias autorizadas por la Universidad ECCI.
 
 </p>
 
@@ -380,7 +380,7 @@ info@oakletsgo.com
 
 <p>
 
-La pasantía internacional implica una inversión económica que puede variar según el país, la duración de la práctica y la agencia seleccionada.
+La pasantía internacional implica una inversión económica que puede variar según el país, la duración de la pasantía y la agencia seleccionada.
 
 </p>
 
@@ -474,7 +474,7 @@ La pasantía internacional implica una inversión económica que puede variar se
 
 <p>
 
-Cada empresa define las condiciones de la práctica. Estas pueden variar de una oferta a otra.
+Cada empresa define las condiciones de la pasantía. Estas pueden variar de una oferta a otra.
 
 </p>
 
@@ -532,7 +532,7 @@ Cada empresa define las condiciones de la práctica. Estas pueden variar de una 
 
 <div class="timeline-item">
 
-<h4>5. Iniciar la práctica</h4>
+<h4>5. Iniciar la pasantía</h4>
 
 </div>
 
@@ -546,7 +546,7 @@ Cada empresa define las condiciones de la práctica. Estas pueden variar de una 
 
 <p>
 
-No realices pagos, compres tiquetes aéreos, solicites visas o inicies tu desplazamiento al país de destino sin haber recibido la aprobación oficial del Programa de Lenguas Modernas de la Universidad ECCI y sin haber completado todos los requisitos institucionales. El incumplimiento de este procedimiento puede afectar el reconocimiento de la práctica profesional.
+No realices pagos, compres tiquetes aéreos, solicites visas o inicies tu desplazamiento al país de destino sin haber recibido la aprobación oficial del Programa de Lenguas Modernas de la Universidad ECCI y sin haber completado todos los requisitos institucionales. El incumplimiento de este procedimiento puede afectar el reconocimiento de la pasantía profesional.
 
 </p>
 
@@ -564,7 +564,7 @@ iniciativa: `
 
 <p class="intro">
 
-Si encuentras una empresa por tu cuenta, podrás postularte para realizar allí tu práctica profesional. Esta modalidad suele ofrecer mayores oportunidades de remuneración, mejores horarios y una mayor variedad de cargos.
+Si encuentras una empresa por tu cuenta, podrás postularte para realizar allí tu pasantía profesional. Esta modalidad suele ofrecer mayores oportunidades de remuneración, mejores horarios y una mayor variedad de cargos.
 
 </p>
 
@@ -674,7 +674,7 @@ La carta debe indicar claramente:
 
 <li>Funciones que desempeñará el estudiante.</li>
 
-<li>Ciudad donde realizará la práctica.</li>
+<li>Ciudad donde realizará la pasantía.</li>
 
 <li>Datos de contacto del responsable.</li>
 
@@ -688,7 +688,7 @@ La carta debe indicar claramente:
 
 <p>
 
-El Programa revisará el cargo y las funciones propuestas para verificar que estén alineadas con el perfil de formación. Si cumplen los requisitos, se continuará con el proceso institucional de práctica profesional.
+El Programa revisará el cargo y las funciones propuestas para verificar que estén alineadas con el perfil de formación. Si cumplen los requisitos, se continuará con el proceso institucional de pasantía profesional.
 
 </p>
 
@@ -706,7 +706,7 @@ faq: `
 
 <p class="intro">
 
-Aquí encontrarás respuesta a las consultas más comunes sobre el proceso de práctica profesional.
+Aquí encontrarás respuesta a las consultas más comunes sobre el proceso de pasantía profesional.
 
 </p>
 
@@ -715,7 +715,7 @@ Aquí encontrarás respuesta a las consultas más comunes sobre el proceso de pr
 <div class="accordion-item">
 
 <button class="accordion-header">
-¿Cuándo puedo iniciar mi práctica?
+¿Cuándo puedo iniciar mi pasantía?
 </button>
 
 <div class="accordion-body">
@@ -734,7 +734,7 @@ Aquí encontrarás respuesta a las consultas más comunes sobre el proceso de pr
 
 <div class="accordion-body">
 
-No. Las horas realizadas antes de la autorización institucional no podrán ser reconocidas como práctica profesional.
+No. Las horas realizadas antes de la autorización institucional no podrán ser reconocidas como pasantía profesional.
 
 </div>
 
@@ -748,7 +748,7 @@ No. Las horas realizadas antes de la autorización institucional no podrán ser 
 
 <div class="accordion-body">
 
-La práctica tiene una duración entre <strong>320 y 480 horas</strong>, según el plan de estudios.
+La pasantía tiene una duración entre <strong>320 y 480 horas</strong>, según el plan de estudios.
 
 </div>
 
@@ -818,7 +818,7 @@ La Universidad ECCI gestiona el convenio institucional cuando la empresa no tien
 
 <div class="accordion-body">
 
-Sí. La afiliación a la ARL es obligatoria antes del inicio de la práctica profesional.
+Sí. La afiliación a la ARL es obligatoria antes del inicio de la pasantía profesional.
 
 </div>
 
