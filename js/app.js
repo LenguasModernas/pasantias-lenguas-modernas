@@ -58,6 +58,64 @@ ${portal.descripcion}
 
 </p>
 
+<div class="comparacion">
+
+<h2>📌 ¿Pasantía o práctica?</h2>
+
+<div class="comparacion-grid">
+
+<div class="comparacion-card pasantia">
+
+<h3>🎓 Pasantía</h3>
+
+<p class="subtitulo">
+Opción de grado
+</p>
+
+<ul>
+
+<li>Informe final.</li>
+
+<li>Asignación de calificación.</li>
+
+<li>Pago de derechos de opción de grado.</li>
+
+<li>320 a 480 horas.</li>
+
+<li>Aprobación del Programa.</li>
+
+</ul>
+
+</div>
+
+<div class="comparacion-card practica">
+
+<h3>🏢 Práctica</h3>
+
+<p class="subtitulo">
+Contrato de aprendizaje
+</p>
+
+<ul>
+
+<li>Vinculación con una empresa.</li>
+
+<li>Duración habitual de 6 o 12 meses.</li>
+
+<li>No corresponde a una opción de grado.</li>
+
+<li>No requiere informe final.</li>
+
+<li>No genera calificación como opción de grado.</li>
+
+</ul>
+
+</div>
+
+</div>
+
+</div>
+
 <div class="cards">
 
 ${portal.opciones.map(opcion=>`
