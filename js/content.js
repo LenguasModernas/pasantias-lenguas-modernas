@@ -215,8 +215,216 @@ La práctica tiene una duración entre <strong>320 y 480 horas</strong>, según 
 `,
 
 internacional: `
-<h2>Próximamente...</h2>
-`,
+
+<div class="contenedor-info">
+
+<button class="volver" onclick="volverInicio()">
+← Volver al inicio
+</button>
+
+<h2>🌍 Pasantía Internacional</h2>
+
+<p class="intro">
+
+La pasantía internacional permite desarrollar la práctica profesional en empresas ubicadas en el exterior mediante agencias autorizadas por la Universidad ECCI.
+
+</p>
+
+<div class="info-card">
+
+<h3>✨ Beneficios</h3>
+
+<ul>
+
+<li>Fortalecer el dominio de una lengua extranjera.</li>
+
+<li>Adquirir experiencia profesional internacional.</li>
+
+<li>Desarrollar competencias interculturales.</li>
+
+<li>Ampliar la red de contactos profesionales.</li>
+
+<li>Fortalecer el perfil profesional.</li>
+
+</ul>
+
+</div>
+
+<div class="info-card">
+
+<h3>🌎 Destinos disponibles</h3>
+
+<div class="cards-paises">
+
+<div class="pais">
+
+🇫🇷
+
+<h4>Francia</h4>
+
+</div>
+
+<div class="pais">
+
+🇪🇸
+
+<h4>España</h4>
+
+</div>
+
+<div class="pais">
+
+🇮🇹
+
+<h4>Italia</h4>
+
+</div>
+
+<div class="pais">
+
+🇺🇸
+
+<h4>Estados Unidos</h4>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="info-card">
+
+<h3>🏢 Agencias autorizadas</h3>
+
+<table class="tabla">
+
+<tr>
+
+<th>Agencia</th>
+
+<th>Destinos</th>
+
+</tr>
+
+<tr>
+
+<td>Gastronomie France</td>
+
+<td>Francia • España • Italia</td>
+
+</tr>
+
+<tr>
+
+<td>Oak Let's Go</td>
+
+<td>Estados Unidos</td>
+
+</tr>
+
+</table>
+
+</div>
+
+<div class="info-card">
+
+<h3>📧 Contacto</h3>
+
+<p>
+
+<strong>Gastronomie France</strong>
+
+<br>
+
+contact@gastronomiefrance.com
+
+</p>
+
+<hr>
+
+<p>
+
+<strong>Oak Let's Go</strong>
+
+<br>
+
+info@oakletsgo.com
+
+</p>
+
+</div>
+
+<div class="info-card">
+
+<h3>✅ Requisitos</h3>
+
+<ul>
+
+<li>Haber aprobado el porcentaje mínimo de créditos exigido por el Programa.</li>
+
+<li>Cumplir con los requisitos académicos e institucionales.</li>
+
+<li>Ser aceptado por una empresa en el exterior.</li>
+
+<li>Realizar el proceso mediante una agencia autorizada.</li>
+
+<li>Recibir la aprobación del Programa antes de viajar.</li>
+
+</ul>
+
+</div>
+
+<div class="info-card">
+
+<h3>🛫 Proceso</h3>
+
+<div class="timeline">
+
+<div class="timeline-item">
+
+<h4>1. Contactar la agencia</h4>
+
+</div>
+
+<div class="timeline-item">
+
+<h4>2. Obtener la empresa</h4>
+
+</div>
+
+<div class="timeline-item">
+
+<h4>3. Entregar documentos</h4>
+
+</div>
+
+<div class="timeline-item">
+
+<h4>4. Recibir aprobación</h4>
+
+</div>
+
+<div class="timeline-item">
+
+<h4>5. Iniciar la práctica</h4>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="info-card alerta">
+
+<h3>⚠️ Importante</h3>
+
+<p>
+
+No realices pagos, compres tiquetes o viajes antes de recibir la aprobación oficial del Programa de Lenguas Modernas y de cumplir todos los requisitos institucionales.
+
+</p>
+
+</div>
 
 iniciativa: `
 
